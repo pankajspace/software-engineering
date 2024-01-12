@@ -1,1 +1,9 @@
-# 00-AA
+## HTML
+1. https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+2. https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+3. https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form
+4. https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls
+5. https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types
+6. https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+7. https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data
+8. https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
