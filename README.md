@@ -1,3 +1,15 @@
+## Cheat Sheets
+1. https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
+2. https://zerotomastery.io/cheatsheets/react-cheat-sheet/
+3. https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/
+4. https://react-typescript-cheatsheet.netlify.app/
+5. https://zerotomastery.io/cheatsheets/sql-cheat-sheet/
+6. https://www.bigocheatsheet.com/
+7. https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/
+8. https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/
+9. https://zerotomastery.io/cheatsheets/cyber-security-cheat-sheet/
+10. https://zerotomastery.io/cheatsheets/python-cheat-sheet/
+
 ## Basics
 1. [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 2. [Web mechanics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics)
@@ -14,23 +26,39 @@
 6. [Parallax YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iAkdBGipl-sd_x9JQKXwK9)
 
 ## JavaScript
-1. [JavaScript language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
-2. [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-3. [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-4. [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
-5. [Enumerability and ownership of properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
-6. [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-7. [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-8. [Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
-9. [The event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
-10. [Event loop YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
-11. [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-12. [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
-13. [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-14. [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
-15. [Adv JS Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
-16. [JS Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
-17. [Adv JS UDM](https://www.udemy.com/course/advanced-javascript-concepts/)
+1. [The Modern JavaScript Tutorial](https://javascript.info/)
+2. [JavaScript language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
+3. [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+4. [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+5. [JavaScript Type Conversions](https://www.programiz.com/javascript/type-conversion)
+6. [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+7. [Enumerability and ownership of properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
+8. [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+9. [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+10. [Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
+11. [The event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+12. [Event loop YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
+13. [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+14. [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+15. [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+16. [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+17. [Adv JS Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
+18. [JS Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
+19. [Adv JS UDM](https://www.udemy.com/course/advanced-javascript-concepts/)
+20. [Deep JavaScript Foundations v3 FEM](https://frontendmasters.com/courses/deep-javascript-v3/)
+21. [JavaScript: The Recent Parts FEM](https://frontendmasters.com/courses/js-recent-parts/)
+22. [JavaScript: The Hard Parts v2 FEM](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+23. [Rethinking Asynchronous JavaScript FEM](https://frontendmasters.com/courses/rethinking-async-js/)
+24. [The Hard Parts of Asynchronous JavaScript FEM](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+25. [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/)
+26. [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/)
+27. [The Hard Parts of Object Oriented JavaScript FEM](https://frontendmasters.com/courses/object-oriented-js/)
+28. [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/)
+29. [Advanced Web Development Quiz FEM](https://frontendmasters.com/courses/web-dev-quiz/)
+
+## Good Coding
+1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
+2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
 
 ## Tools and Testing
 1. [Understanding client-side web development tools](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools)
@@ -38,18 +66,22 @@
 3. [Cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)
 
 ## Web Performance
-1. [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
-2. [Web Performance FEM](https://frontendmasters.com/courses/web-perf/)
+1. [Top Tips to Improve Web Performance YT](https://www.youtube.com/playlist?list=PLNYkxOF6rcICVl6Vb-AFlw81bQLuv6a_P)
+2. [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
+3. [Web Performance](https://developer.mozilla.org/en-US/docs/Web/Performance)
+4. [Web Performance FEM](https://frontendmasters.com/courses/web-perf/)
 
 ## React
 1. [React](https://react.dev/reference/react)
 2. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 3. [React Router YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
 4. [React Router GH](https://github.com/pankajspace/23-react-router-6)
-5. [React Toolkit GH](https://github.com/pankajspace/14-react-redux-toolkit)
-6. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
-7. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
-8. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+5. [Basic Redux](https://github.com/pankajspace/13-basic-redux)
+6. [Basic Redux Toolkit GH](https://github.com/pankajspace/14-basic-redux-toolkit)
+7. [React Redux Toolkit GH](https://github.com/pankajspace/14-react-redux-toolkit)
+8. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
+9. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
+10. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
 
 ## Webpack
 1. [Webpack 5 UDM](https://www.udemy.com/course/webpack-from-beginner-to-advanced/)
@@ -65,18 +97,29 @@
 
 ## Authentication
 1. [Auth FEM](https://frontendmasters.com/courses/web-auth-apis/)
+2. [What Is JWT and Why Should You Use JWT YT WDS](https://www.youtube.com/watch?v=7Q17ubqLfaM&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=1)
+3. [Node.js Passport Login System Tutorial YT WDS](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=2)
+4. [JWT Authentication Tutorial - Node.js YT WDS](https://www.youtube.com/watch?v=mbsmsi7l3r4&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=3)
+5. [Build Node.js User Authentication - Password Login YT WDS](https://www.youtube.com/watch?v=Ud5xKCYQTjM&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=7)
+6. [Your App Is NOT Secure If You Don’t Use CSRF Tokens YT WDS](https://www.youtube.com/watch?v=80S8h5hEwTY&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=9)
+7. [Auth Does NOT Have To Be Hard YT WDS](https://www.youtube.com/watch?v=mL8EuL7jSbg&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=10)
+8. [What Is Email Only Authentication - Magic Link Auth YT WDS](https://www.youtube.com/watch?v=b6qHfPdv4Y8&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=11)
 
 ## Payments
-1. [Stripe Node YT](https://www.youtube.com/playlist?list=PLy1nL-pvL2M5xNIuNapwmABwEy2uifAlY)
-2. [Stipre Checkout YT](https://www.youtube.com/playlist?list=PLy1nL-pvL2M4bDg02XQr_Y68h4um-vLk3)
+1. [How To Accept Payments With Stripe YT WDS](https://www.youtube.com/watch?v=1r-F3FIONl8)
+2. [Stripe Checkout YT WDS](https://github.com/WebDevSimplified/stripe-checkout-simple)
+3. [Stripe Node YT](https://www.youtube.com/playlist?list=PLy1nL-pvL2M5xNIuNapwmABwEy2uifAlY)
+4. [Stipre Checkout YT](https://www.youtube.com/playlist?list=PLy1nL-pvL2M4bDg02XQr_Y68h4um-vLk3)
 
-## Datbase
+## Database
 1. [All DB FEM](https://frontendmasters.com/courses/databases/)
 2. [MongoDB YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
 3. [GraphQL YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
 
-## Security
-1. [Security FEM](https://frontendmasters.com/courses/web-security/) 
+## Web Security
+1. [Website security](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
+2. [Security FEM](https://frontendmasters.com/courses/web-security/)
+3. [Web Security & Bug Bounty: Learn Penetration Testing](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
 
 ## Microfrontends
 1. [MF UDM](https://www.udemy.com/course/microfrontend-course/)
@@ -103,13 +146,17 @@
 1. [SD IR](https://interviewready.io/learn/system-design-course)
 2. [SD GFG](https://www.geeksforgeeks.org/batch/sd-self-paced?tab=Chapters)
 3. [SD Roadmap](https://whimsical.com/system-design-roadmap-by-tanya-rajhans-HBWU4L6HGs1x9HkAfHBj2U)
+4. [Pragmatic System Design UDM](https://www.udemy.com/course/pragmatic-system-design/)
+5. [Mastering the System Design Interview UDM](https://www.udemy.com/course/system-design-interview-prep/)
 
 ## Low Level Design
 1. [SOLID](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
 
 ## Architecture
-1. [ARCH](https://www.udemy.com/course/developer-to-architect/)
-2. [ARCH](https://www.udemy.com/course/implementing-software-architecture/)
+1. [Software Architecture & Technology of Large-Scale Systems UDM](https://www.udemy.com/course/developer-to-architect/)
+2. [Implementing Software Architecture of a Large-Scale System UDM](https://www.udemy.com/course/implementing-software-architecture/)
+3. [Software Architecture & Design of Modern Large Scale Systems UDM](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/)
+4. [Software Architecture & System Design Practical Case Studies UDM](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/)
 
 ## Data Structures, Algorithms & Dynamic Programming
 1. [DSA DP GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
@@ -128,8 +175,10 @@
 1. [DP JS UDM](https://www.udemy.com/course/design-patterns-javascript/)
 2. [DP TS UDM](https://www.udemy.com/course/design-patterns-in-typescript/)
 3. [DP JS FEM](https://frontendmasters.com/courses/tour-js-patterns/)
-4. [DP JS React](https://www.patterns.dev/)
-5. [DP GH](https://github.com/pankajspace?tab=repositories&q=patterns)
+4. [DP JS + React](https://www.patterns.dev/)
+5. [JS DP GH](https://github.com/pankajspace?tab=repositories&q=patterns)
+6. [JS DP GFG](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
+7. [JS DP dofactory](https://www.dofactory.com/javascript/design-patterns)
 
 ## TypeScript
 1. [TS YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
@@ -159,6 +208,11 @@
 6. [ML GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
 7. [Prompt Engg YT](https://youtube.com/playlist?list=PL6gx4Cwl9DGDv5eyBLEd9l3ZZzVoroxIZ&si=v2V_d-COQJ1HY-mT)
 
+## Coding Math
+1. https://www.youtube.com/user/codingmath
+
+## General 
+1. https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
 
 
 
