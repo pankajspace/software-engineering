@@ -108,7 +108,7 @@
 
 ## Data Structures, Algorithms & Dynamic Programming
 1. [DSA DP GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
-2. [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+2. [JS DSA GH](https://github.com/trekhleb/javascript-algorithms)
 3. [JS DSA Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
 4. [JS DSA GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
 5. [DSA UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
