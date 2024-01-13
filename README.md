@@ -47,13 +47,17 @@
 ## React
 1. [React](https://react.dev/reference/react)
 2. [GH React Hooks](https://github.com/pankajspace/09-react-hooks-wds)
+3. [React Router YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
+4. [GH React Router](https://github.com/pankajspace/23-react-router-6)
+5. [GH React Toolkit](https://github.com/pankajspace/14-react-redux-toolkit)
+6. [GH React Testing Library](https://github.com/pankajspace/react-testing-library)
+7. [GH React SSR](https://github.com/pankajspace/23-react-ssr)
+8. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+
+## Webpack
+1. [Webpack 5 UDM](https://www.udemy.com/course/webpack-from-beginner-to-advanced/)
+2. [Webpack 5 YT](https://www.youtube.com/watch?v=IZGNcSuwBZs)
 3. [GH React Webpack](https://github.com/pankajspace/template-webpack-react)
-4. [React Router YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
-5. [GH React Router](https://github.com/pankajspace/23-react-router-6)
-6. [GH React Toolkit](https://github.com/pankajspace/14-react-redux-toolkit)
-7. [GH React Testing Library](https://github.com/pankajspace/react-testing-library)
-8. [GH React SSR](https://github.com/pankajspace/23-react-ssr)
-9. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
 
 ## Node
 1. [Express Basics](https://expressjs.com/en/starter/installing.html)
@@ -107,10 +111,13 @@
 2. [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 3. [JS DSA Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
 4. [JS DSA GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
-5. [Algo Greedy](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
-6. [Algo Explained](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+5. [DSA UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+6. [DSA DP UDM FAANG ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
+7. [Algo Greedy](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+8. [Algo Explained](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 1. [DP UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
-2. https://asksenior.in/
+2. [DSA FEM](https://frontendmasters.com/courses/computer-science-v2/)
+3. https://asksenior.in/
 
 ## Design Patterns
 1. [DP JS UDM](https://www.udemy.com/course/design-patterns-javascript/)
@@ -142,8 +149,9 @@
 1. [OpenAI YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
 2. [UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
 3. [UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
-4. [UDM Prompt Engg](https://www.udemy.com/course/prompt-engineering-for-ai/)
-5. [ML GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
+4. [Prompt Engg](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+5. [UDM Prompt Engg](https://www.udemy.com/course/prompt-engineering-for-ai/)
+6. [ML GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
 
 
 
