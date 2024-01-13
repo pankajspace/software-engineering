@@ -43,28 +43,32 @@
 
 ## React
 1. [React](https://react.dev/reference/react)
-2. [GH React Hooks](https://github.com/pankajspace/09-react-hooks-wds)
+2. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 3. [React Router YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
-4. [GH React Router](https://github.com/pankajspace/23-react-router-6)
-5. [GH React Toolkit](https://github.com/pankajspace/14-react-redux-toolkit)
-6. [GH React Testing Library](https://github.com/pankajspace/react-testing-library)
-7. [GH React SSR](https://github.com/pankajspace/23-react-ssr)
+4. [React Router GH](https://github.com/pankajspace/23-react-router-6)
+5. [React Toolkit GH](https://github.com/pankajspace/14-react-redux-toolkit)
+6. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
+7. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 8. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
 
 ## Webpack
 1. [Webpack 5 UDM](https://www.udemy.com/course/webpack-from-beginner-to-advanced/)
 2. [Webpack 5 YT](https://www.youtube.com/watch?v=IZGNcSuwBZs)
-3. [GH React Webpack](https://github.com/pankajspace/template-webpack-react)
+3. [React Webpack GH](https://github.com/pankajspace/template-webpack-react)
 
 ## Node
 1. [Express Basics](https://expressjs.com/en/starter/installing.html)
 2. [Express Guides](https://expressjs.com/en/guide/routing.html)
 3. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-4. [GH MERN](https://expressjs.com/en/advanced/developing-template-engines.html)
-5. [GH GraphQL](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
+4. [MERN GH](https://expressjs.com/en/advanced/developing-template-engines.html)
+5. [GraphQL GH](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
 
 ## Authentication
 1. [Auth FEM](https://frontendmasters.com/courses/web-auth-apis/)
+
+## Payments
+1. [Stripe Node YT](https://www.youtube.com/playlist?list=PLy1nL-pvL2M5xNIuNapwmABwEy2uifAlY)
+2. [Stipre Checkout YT](https://www.youtube.com/playlist?list=PLy1nL-pvL2M4bDg02XQr_Y68h4um-vLk3)
 
 ## Datbase
 1. [All DB FEM](https://frontendmasters.com/courses/databases/)
