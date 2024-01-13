@@ -89,11 +89,13 @@
 3. [React Webpack GH](https://github.com/pankajspace/template-webpack-react)
 
 ## Node
-1. [Express Basics](https://expressjs.com/en/starter/installing.html)
-2. [Express Guides](https://expressjs.com/en/guide/routing.html)
-3. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-4. [MERN GH](https://expressjs.com/en/advanced/developing-template-engines.html)
-5. [GraphQL GH](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
+1. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+2. [Complete NodeJS Dev GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
+3. [Express Basics](https://expressjs.com/en/starter/installing.html)
+4. [Express Guides](https://expressjs.com/en/guide/routing.html)
+5. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+6. [MERN GH](https://expressjs.com/en/advanced/developing-template-engines.html)
+7. [GraphQL GH](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
 
 ## Authentication
 1. [Auth FEM](https://frontendmasters.com/courses/web-auth-apis/)
@@ -181,8 +183,14 @@
 7. [JS DP dofactory](https://www.dofactory.com/javascript/design-patterns)
 
 ## TypeScript
-1. [TS YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
-2. [TS UDM](https://github.com/pankajspace/15-mastering-typescript)
+1. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
+  a. https://github.com/pankajspace/15-mastering-typescript
+  b. https://github.com/pankajspace/15-mastering-typescript-react
+  c. https://github.com/pankajspace/15-typescript-oop-solid
+  d. https://github.com/pankajspace/15-typescript-tutorial-tnn
+  e. https://github.com/pankajspace/node-typescript 
+3. [TS YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
+4. [TS UDM](https://github.com/pankajspace/15-mastering-typescript)
 
 ## AWS
 1. https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
