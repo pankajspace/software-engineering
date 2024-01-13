@@ -255,3 +255,4 @@
 ## General
 
 1. https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
+2. https://blog.webdevsimplified.com/
