@@ -157,6 +157,8 @@
 4. [Prompt Engg](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 5. [UDM Prompt Engg](https://www.udemy.com/course/prompt-engineering-for-ai/)
 6. [ML GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
+7. [Prompt Engg YT](https://youtube.com/playlist?list=PL6gx4Cwl9DGDv5eyBLEd9l3ZZzVoroxIZ&si=v2V_d-COQJ1HY-mT)
+
 
 
 
