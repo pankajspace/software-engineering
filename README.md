@@ -61,17 +61,40 @@
 
 ## Devops
 
-## System Design
+## Radis
+1. [UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
+2. [YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
 
-## DSA
+## System Design
+1. [SD IR](https://interviewready.io/learn/system-design-course)
+2. [SD GFG](https://www.geeksforgeeks.org/batch/sd-self-paced?tab=Chapters)
+3. [SD Roadmap](https://whimsical.com/system-design-roadmap-by-tanya-rajhans-HBWU4L6HGs1x9HkAfHBj2U)
+
+## Low Level Design
+1. [SOLID](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
+
+## Architecture
+1. [ARCH](https://www.udemy.com/course/developer-to-architect/)
+2. [ARCH](https://www.udemy.com/course/implementing-software-architecture/)
+
+## Data Structures
+
+## Algo
+1. [Greedy](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+2. [Explained](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
+## Dynamic Programming
 
 ## Design Patterns
+1. [DP JS](https://www.udemy.com/course/design-patterns-javascript/)
+2. [DP TS](https://www.udemy.com/course/design-patterns-in-typescript/)
 
 ## TypeScript
 
 ## AWS
 
 ## AI ML
+1. [UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
 
 
 
