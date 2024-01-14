@@ -119,8 +119,13 @@
 3. [Express Basics](https://expressjs.com/en/starter/installing.html)
 4. [Express Guides](https://expressjs.com/en/guide/routing.html)
 5. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-6. [MERN GH](https://expressjs.com/en/advanced/developing-template-engines.html)
-7. [GraphQL GH](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
+6. [MERN GH](https://github.com/pankajspace/mern)
+7. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
+8. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+
+## Automation Testing
+
+1. [Cypress -Modern Automation Testing from Scratch + Frameworks UDM](https://www.udemy.com/course/cypress-tutorial/)
 
 ## Authentication
 
@@ -145,6 +150,9 @@
 1. [All DB FEM](https://frontendmasters.com/courses/databases/)
 2. [MongoDB YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
 3. [GraphQL YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
+4. [GraphQL GH](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
+5. [GraphQL with React: The Complete Developers Guide UDM](https://www.udemy.com/course/graphql-with-react-course/)
+6. [Complete PostgreSQL, MySQL and Databases Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 
 ## Web Security
 
