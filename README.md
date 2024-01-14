@@ -84,14 +84,27 @@
 
 1. [React](https://react.dev/reference/react)
 2. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
-3. [React Router YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
-4. [React Router GH](https://github.com/pankajspace/23-react-router-6)
-5. [Basic Redux](https://github.com/pankajspace/13-basic-redux)
-6. [Basic Redux Toolkit GH](https://github.com/pankajspace/14-basic-redux-toolkit)
-7. [React Redux Toolkit GH](https://github.com/pankajspace/14-react-redux-toolkit)
-8. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
-9. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
-10. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+
+## React SSR
+
+1. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
+2. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+
+## React Router
+
+1. [React Router YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
+2. [React Router GH](https://github.com/pankajspace/23-react-router-6)
+
+## Redux
+
+1. [Basic Redux GH](https://github.com/pankajspace/13-basic-redux)
+2. [Basic Redux Toolkit GH](https://github.com/pankajspace/14-basic-redux-toolkit)
+3. [React Redux Toolkit GH](https://github.com/pankajspace/14-react-redux-toolkit)
+
+## React Testing
+
+1. [React Testing Library and Jest: The Complete Guide UDM](https://www.udemy.com/course/react-testing-library-and-jest/)
+2. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
 
 ## Webpack
 
