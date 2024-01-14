@@ -1,15 +1,15 @@
 ## Cheat Sheets
 
-1. https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/
-2. https://zerotomastery.io/cheatsheets/react-cheat-sheet/
-3. https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/
-4. https://react-typescript-cheatsheet.netlify.app/
-5. https://zerotomastery.io/cheatsheets/sql-cheat-sheet/
-6. https://www.bigocheatsheet.com/
-7. https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/
-8. https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/
-9. https://zerotomastery.io/cheatsheets/cyber-security-cheat-sheet/
-10. https://zerotomastery.io/cheatsheets/python-cheat-sheet/
+1. [Advanced JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/)
+2. [React Cheat Sheet](https://zerotomastery.io/cheatsheets/react-cheat-sheet/)
+3. [Node JS Cheat Sheet](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/)
+4. [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+5. [SQL Cheat Sheet](https://zerotomastery.io/cheatsheets/sql-cheat-sheet/)
+6. [Big-O](https://www.bigocheatsheet.com/)
+7. [Big O Cheat Sheet ](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/)
+8. [Data Structures and Algorithms Cheat Sheet](https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/)
+9. [Cyber Security Cheat Sheet](https://zerotomastery.io/cheatsheets/cyber-security-cheat-sheet/)
+10. [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/)
 
 ## Basics
 
@@ -195,25 +195,18 @@
 4. [Pragmatic System Design UDM](https://www.udemy.com/course/pragmatic-system-design/)
 5. [Mastering the System Design Interview UDM](https://www.udemy.com/course/system-design-interview-prep/)
 
-## Architecture
-
-1. [Software Architecture & Technology of Large-Scale Systems UDM](https://www.udemy.com/course/developer-to-architect/)
-2. [Implementing Software Architecture of a Large-Scale System UDM](https://www.udemy.com/course/implementing-software-architecture/)
-3. [Software Architecture & Design of Modern Large Scale Systems UDM](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/)
-4. [Software Architecture & System Design Practical Case Studies UDM](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/)
-
 ## Data Structures, Algorithms & Dynamic Programming
 
-1. [DSA DP GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
-2. [JS DSA GH](https://github.com/trekhleb/javascript-algorithms)
-3. [JS DSA Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
-4. [JS DSA GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
-5. [DSA UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-6. [DSA DP UDM FAANG ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
-7. [Algo Greedy](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
-8. [Algo Explained](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-9. [DP UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
-10. [DSA FEM](https://frontendmasters.com/courses/computer-science-v2/)
+1. [DSA DP Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
+2. [DSA DP UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+3. [DSA DP UDM FAANG ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
+4. [DSA DP GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
+5. [JS DSA GH](https://github.com/trekhleb/javascript-algorithms)
+6. [JS DSA GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
+7. [Algo Greedy YT](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+8. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+9. [DSA FEM](https://frontendmasters.com/courses/computer-science-v2/)
+10. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
 11. [Senior](https://asksenior.in/)
 
 ## Design Patterns
@@ -225,6 +218,13 @@
 5. [JS DP GH](https://github.com/pankajspace?tab=repositories&q=patterns)
 6. [JS DP GFG](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
 7. [JS DP dofactory](https://www.dofactory.com/javascript/design-patterns)
+
+## Architecture
+
+1. [Software Architecture & Technology of Large-Scale Systems UDM](https://www.udemy.com/course/developer-to-architect/)
+2. [Implementing Software Architecture of a Large-Scale System UDM](https://www.udemy.com/course/implementing-software-architecture/)
+3. [Software Architecture & Design of Modern Large Scale Systems UDM](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/)
+4. [Software Architecture & System Design Practical Case Studies UDM](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/)
 
 ## TypeScript
 
@@ -240,12 +240,12 @@
 
 ## AWS
 
-1. https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
-2. https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
-3. https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/
-4. https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
-5. https://www.udemy.com/course/aws-solutions-architect-professional/
-6. https://www.udemy.com/course/ultimate-aws-certified-security-specialty/
+1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+2. [Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+3. [AWS Certified DevOps Engineer Professional 2024 - DOP-C02](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
+4. [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+5. [Ultimate AWS Certified Solutions Architect Professional 2024](https://www.udemy.com/course/aws-solutions-architect-professional/)
+6. [Ultimate AWS Certified Security Specialty SCS-C02](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
 
 ## PWA
 
@@ -268,9 +268,9 @@
 
 ## Coding Math
 
-1. https://www.youtube.com/user/codingmath
+1. [Coding Math YT Channel](https://www.youtube.com/user/codingmath)
 
 ## General
 
-1. https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
-2. https://blog.webdevsimplified.com/
+1. [ZTM Blog](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+2. [WDS Blog](https://blog.webdevsimplified.com/)
