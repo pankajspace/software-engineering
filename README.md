@@ -152,7 +152,7 @@
 3. [GraphQL YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
 4. [GraphQL GH](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
 5. [GraphQL with React: The Complete Developers Guide UDM](https://www.udemy.com/course/graphql-with-react-course/)
-6. [Complete PostgreSQL, MySQL and Databases Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
+6. [Complete PostgreSQL, MySQL and Databases Bootcamp UDM](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 
 ## Web Security
 
