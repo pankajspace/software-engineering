@@ -173,10 +173,6 @@
 4. [Pragmatic System Design UDM](https://www.udemy.com/course/pragmatic-system-design/)
 5. [Mastering the System Design Interview UDM](https://www.udemy.com/course/system-design-interview-prep/)
 
-## Low Level Design
-
-1. [SOLID](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
-
 ## Architecture
 
 1. [Software Architecture & Technology of Large-Scale Systems UDM](https://www.udemy.com/course/developer-to-architect/)
