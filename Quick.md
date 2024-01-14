@@ -17,6 +17,5 @@
 
 ## Database
 
-1. [All DB FEM](https://frontendmasters.com/courses/databases/)
-2. [MongoDB YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
-3. [GraphQL YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
+1. [MongoDB YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+2. [GraphQL YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
