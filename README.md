@@ -13,8 +13,9 @@
 
 ## Basics
 
-1. [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-2. [Web mechanics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics)
+1. [Web Dev Atricles and Tutorials](https://web.dev/)
+2. [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+3. [Web mechanics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics)
 
 ## HTML
 
@@ -250,6 +251,5 @@
 
 ## General
 
-1. https://web.dev/learn
-2. https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
-3. https://blog.webdevsimplified.com/
+1. https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/
+2. https://blog.webdevsimplified.com/
