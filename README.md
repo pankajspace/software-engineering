@@ -123,6 +123,7 @@
 6. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
 7. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
 8. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+9. [NodeJs Guides](https://nodejs.org/en/guides)
 
 ## Automation Testing
 
