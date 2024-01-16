@@ -5,7 +5,7 @@
 
 ## React SSR
 
-1. [React SSR UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+1. [Server Side Rendering with React and Redux UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
 
 ## Webpack
 
@@ -17,5 +17,5 @@
 
 ## Database
 
-1. [MongoDB YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
-2. [GraphQL YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
+1. [Complete MongoDB Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+2. [GraphQL Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
