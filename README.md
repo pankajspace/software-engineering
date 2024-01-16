@@ -86,8 +86,8 @@
 
 ## React SSR
 
-1. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
-2. [React SSR Server Side Rendering with React and Redux UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+1. [React SSR Server Side Rendering with React and Redux UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+2. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 
 ## React Router
 
