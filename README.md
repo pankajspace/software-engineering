@@ -174,7 +174,7 @@
 ## Devops
 
 1. [Docker YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
-2. [Devops UDM](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+2. [Docker and Kubernetes: The Complete Guide UDM](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 
 ## Accessibility
 
