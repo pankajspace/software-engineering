@@ -32,8 +32,9 @@
 
 ## React
 
-1. [React](https://react.dev/reference/react)
-2. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
+1. [React Reference](https://react.dev/reference/react)
+2. [React Learn](https://react.dev/learn)
+3. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 
 ## React SSR
 
@@ -57,7 +58,6 @@
 
 ## Database
 
-1. [Complete MongoDB Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
 2. [GraphQL Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
 
 ## Microfrontends

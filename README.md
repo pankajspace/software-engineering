@@ -90,13 +90,15 @@
 
 ## React
 
-1. [React](https://react.dev/reference/react)
-2. [React Hooks YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+1. [React Reference](https://react.dev/reference/react)
+2. [React Learn](https://react.dev/learn)
+3. [React Hooks YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
    1. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 
 ## React SSR
 
 1. [Server Side Rendering with React and Redux UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+   1. [GH](https://github.com/pankajspace/ssr-react-redux)
 2. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 
 ## React Router
