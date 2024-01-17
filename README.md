@@ -19,16 +19,25 @@
 
 ## HTML
 
-1. [Web forms MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+1. [Learn HTML](https://web.dev/learn/html)
+2. [Web forms MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
 ## CSS
 
-1. [How CSS works MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
-2. [CSS building blocks MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
-3. [CSS layout MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
-4. [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-5. [Practical CSS Layouts FEM](https://frontendmasters.com/courses/css-layouts/)
-6. [Parallax Landing Page Build YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iAkdBGipl-sd_x9JQKXwK9)
+1. [Learn CSS](https://web.dev/learn/css)
+2. [Responsive Design](https://web.dev/learn/design)
+3. [Learn Images](https://web.dev/learn/images)
+4. [How CSS works MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
+5. [CSS building blocks MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
+6. [CSS layout MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+7. [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+8. [Practical CSS Layouts FEM](https://frontendmasters.com/courses/css-layouts/)
+9. [Parallax Landing Page Build YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iAkdBGipl-sd_x9JQKXwK9)
+
+## Performance
+
+1. [Learn Performance](https://web.dev/learn/performance)
+2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
 
 ## JavaScript
 
@@ -82,7 +91,8 @@
 ## React
 
 1. [React](https://react.dev/reference/react)
-2. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
+2. [React Hooks YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+   1. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 
 ## React SSR
 
@@ -118,13 +128,13 @@
 
 1. [MERN + Auth GH](https://github.com/pankajspace/mern)
 2. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
-3. [Complete NodeJS Dev GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
-4. [Express Basics](https://expressjs.com/en/starter/installing.html)
-5. [Express Guides](https://expressjs.com/en/guide/routing.html)
-6. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-7. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
-8. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
-9. [NodeJs Guides](https://nodejs.org/en/guides)
+   1. [GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
+3. [Express Basics](https://expressjs.com/en/starter/installing.html)
+4. [Express Guides](https://expressjs.com/en/guide/routing.html)
+5. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+6. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
+7. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+8. [NodeJs Guides](https://nodejs.org/en/guides)
 
 ## Automation Testing
 
