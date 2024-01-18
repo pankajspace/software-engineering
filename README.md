@@ -295,3 +295,4 @@
 1. [Coding Math YT](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)
 2. [Master the Fundamentals of Math](https://www.udemy.com/course/fundamentals-of-math/)
 3. [Become a Probability & Statistics Master](https://www.udemy.com/course/statistics-probability/)
+4. [Quntitative Aptitude](https://www.youtube.com/playlist?list=PLN7-HyA4mGr8r6Uoy_C5sW6ZIYqe5-gCg)
