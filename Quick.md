@@ -7,6 +7,7 @@
 1. [Learn CSS](https://web.dev/learn/css)
 2. [Responsive Design](https://web.dev/learn/design)
 3. [Learn Images](https://web.dev/learn/images)
+4. [Animations](https://javascript.info/css-animations)
 
 ## Performance
 
@@ -21,17 +22,41 @@
 
 1. [Data types](https://javascript.info/types)
 2. [Type Conversions](https://javascript.info/type-conversions)
-3. [JavaScript specials](https://javascript.info/javascript-specials)
-4. [Objects: the basics](https://javascript.info/object-basics)
-5. [Data types](https://javascript.info/data-types)
-6. [Advanced working with functions](https://javascript.info/advanced-functions)
-7. [Object properties configuration](https://javascript.info/object-properties)
-8. [Prototypes, inheritance](https://javascript.info/prototypes)
-9. [Classes](https://javascript.info/classes)
-10. [Error handling](https://javascript.info/error-handling)
-11. [Promises, async/await](https://javascript.info/async)
-12. [Generators, advanced iteration](https://javascript.info/generators-iterators)
-13. [Modules](https://javascript.info/modules)
+3. [Basic operators, maths](https://javascript.info/operators)
+4. [Logical operators](https://javascript.info/logical-operators)
+5. [Nullish coalescing operator '??'](https://javascript.info/nullish-coalescing-operator)
+6. [Loops](https://javascript.info/while-for)
+7. [Functions](https://javascript.info/function-basics)
+8. [Function expressions](https://javascript.info/function-expressions)
+9. [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)10.
+10. [JavaScript specials](https://javascript.info/javascript-specials)
+11. [Objects: the basics](https://javascript.info/object-basics)
+12. [Data types](https://javascript.info/data-types)
+13. [Advanced working with functions](https://javascript.info/advanced-functions)
+14. [Object properties configuration](https://javascript.info/object-properties)
+15. [Prototypes, inheritance](https://javascript.info/prototypes)
+16. [Classes](https://javascript.info/classes)
+17. [Error handling](https://javascript.info/error-handling)
+18. [Promises, async/await](https://javascript.info/async)
+19. [Generators, advanced iteration](https://javascript.info/generators-iterators)
+20. [Modules](https://javascript.info/modules)
+21. [Polyfills and transpilers](https://javascript.info/polyfills)
+22. [Proxy and Reflect](https://javascript.info/proxy)
+23. [Reference Type](https://javascript.info/reference-type)
+
+## Browser
+
+1. [Browser environment, specs](https://javascript.info/browser-environment)
+2. [DOM tree](https://javascript.info/dom-nodes)
+3. [Attributes and properties](https://javascript.info/dom-attributes-and-properties)
+4. [Walking the DOM](https://javascript.info/dom-navigation)
+5. [Modifying the DOM](https://javascript.info/modifying-document)
+6. [Searching DOM](https://javascript.info/searching-elements-dom)
+7. [Events](https://javascript.info/events)
+8. [Document and resource loading](https://javascript.info/loading)
+9. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
+10. [Mutation observer](https://javascript.info/mutation-observer)
+11. [Storing data in the browser](https://javascript.info/data-storage)
 
 ## React
 
