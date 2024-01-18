@@ -19,16 +19,19 @@
 
 ## JavaScript
 
-1. [Objects: the basics](https://javascript.info/object-basics)
-2. [Data types](https://javascript.info/data-types)
-3. [Advanced working with functions](https://javascript.info/advanced-functions)
-4. [Object properties configuration](https://javascript.info/object-properties)
-5. [Prototypes, inheritance](https://javascript.info/prototypes)
-6. [Classes](https://javascript.info/classes)
-7. [Error handling](https://javascript.info/error-handling)
-8. [Promises, async/await](https://javascript.info/async)
-9. [Generators, advanced iteration](https://javascript.info/generators-iterators)
-10. [Modules](https://javascript.info/modules)
+1. [Data types](https://javascript.info/types)
+2. [Type Conversions](https://javascript.info/type-conversions)
+3. [JavaScript specials](https://javascript.info/javascript-specials)
+4. [Objects: the basics](https://javascript.info/object-basics)
+5. [Data types](https://javascript.info/data-types)
+6. [Advanced working with functions](https://javascript.info/advanced-functions)
+7. [Object properties configuration](https://javascript.info/object-properties)
+8. [Prototypes, inheritance](https://javascript.info/prototypes)
+9. [Classes](https://javascript.info/classes)
+10. [Error handling](https://javascript.info/error-handling)
+11. [Promises, async/await](https://javascript.info/async)
+12. [Generators, advanced iteration](https://javascript.info/generators-iterators)
+13. [Modules](https://javascript.info/modules)
 
 ## React
 
