@@ -285,11 +285,13 @@
 6. [Machine Learning Basic to Advanced GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
 7. [Prompt Engineering for Beginners Tutorials YT](https://youtube.com/playlist?list=PL6gx4Cwl9DGDv5eyBLEd9l3ZZzVoroxIZ&si=v2V_d-COQJ1HY-mT)
 
-## Coding Math
-
-1. [Coding Math YT Channel](https://www.youtube.com/user/codingmath)
-
 ## General
 
 1. [ZTM Blog](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 2. [WDS Blog](https://blog.webdevsimplified.com/)
+
+## Coding Maths
+
+1. [Coding Math YT](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)
+2. [Master the Fundamentals of Math](https://www.udemy.com/course/fundamentals-of-math/)
+3. [Become a Probability & Statistics Master](https://www.udemy.com/course/statistics-probability/)
