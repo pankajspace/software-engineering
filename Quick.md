@@ -75,7 +75,7 @@
 
 ## Node + MERN
 
-1. [MERN GH](https://github.com/pankajspace/mern)
+1. [MERN + Auth GH](https://github.com/pankajspace/mern)
 2. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
 3. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
    1. [GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
