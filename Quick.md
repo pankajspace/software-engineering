@@ -28,7 +28,7 @@
 6. [Loops](https://javascript.info/while-for)
 7. [Functions](https://javascript.info/function-basics)
 8. [Function expressions](https://javascript.info/function-expressions)
-9. [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)10.
+9. [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
 10. [JavaScript specials](https://javascript.info/javascript-specials)
 11. [Objects: the basics](https://javascript.info/object-basics)
 12. [Data types](https://javascript.info/data-types)
