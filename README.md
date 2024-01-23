@@ -75,18 +75,27 @@
 
 ## Node + MERN
 
-1. [MERN + Auth GH](https://github.com/pankajspace/mern)
-2. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
-3. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
-   1. [GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
+1. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
+2. [NodeJs Guides](https://nodejs.org/en/guides)
+3. [Express Basics](https://expressjs.com/en/starter/installing.html)
+4. [Express Guides](https://expressjs.com/en/guide/routing.html)
+5. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
 
 ## Devops
 
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
 
-## Database
+## MongoDB
 
-2. [GraphQL Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
+1. [Complete MongoDB Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+
+## GraphQL
+
+1. [GraphQL Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
+
+## Redis
+
+1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
 
 ## Microfrontends
 
