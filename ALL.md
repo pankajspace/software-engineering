@@ -181,10 +181,15 @@
 ## Microfrontends
 
 1. [Microfrontends with React: A Complete Developer's Guide UDM](https://www.udemy.com/course/microfrontend-course/)
+   1. [MF Simple GH](https://github.com/pankajspace/17-micro-frontends-sg-simple)
+   2. [MF Complex GH](https://github.com/pankajspace/17-micro-frontends-sg-complex)
 
 ## Microservices
 
-1. [Microservices with Node JS and React UDM](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+1. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
+2. [NodeJS Microservice Master Class YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr)
+3. [Building Microservices with Node JS YT](https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O)
+4. [Microservices with Node JS and React UDM](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 
 ## Devops
 
