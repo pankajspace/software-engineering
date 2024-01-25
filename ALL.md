@@ -154,6 +154,7 @@
 6. [Your App Is NOT Secure If You Don’t Use CSRF Tokens YT WDS](https://www.youtube.com/watch?v=80S8h5hEwTY&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=9)
 7. [Auth Does NOT Have To Be Hard YT WDS](https://www.youtube.com/watch?v=mL8EuL7jSbg&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=10)
 8. [What Is Email Only Authentication - Magic Link Auth YT WDS](https://www.youtube.com/watch?v=b6qHfPdv4Y8&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=11)
+9. [Node.js Passport Login System Tutorial TY WDS](https://www.youtube.com/watch?v=-RCnNyD0L-s)
 
 ## Payments
 
