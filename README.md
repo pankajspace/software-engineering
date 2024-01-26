@@ -84,6 +84,7 @@
 ## Authentication
 
 1. [NodeJS Authentication with Passport(2021) YT](https://www.youtube.com/playlist?list=PL62km_yqC3ZHlvkKVmR2f3W6SEzh8pRIf)
+   1. [GH](https://github.com/pankajspace/nodejs-auth-basic-jwt-passport)
 
 ## Devops
 
