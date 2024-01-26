@@ -147,13 +147,14 @@
 ## Authentication
 
 1. [Web Authentication APIs FEM](https://frontendmasters.com/courses/web-auth-apis/)
-2. [What Is JWT and Why Should You Use JWT YT WDS](https://www.youtube.com/watch?v=7Q17ubqLfaM&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=1)
-3. [Node.js Passport Login System Tutorial YT WDS](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=2)
-4. [JWT Authentication Tutorial - Node.js YT WDS](https://www.youtube.com/watch?v=mbsmsi7l3r4&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=3)
-5. [Build Node.js User Authentication - Password Login YT WDS](https://www.youtube.com/watch?v=Ud5xKCYQTjM&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=7)
-6. [Your App Is NOT Secure If You Don’t Use CSRF Tokens YT WDS](https://www.youtube.com/watch?v=80S8h5hEwTY&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=9)
-7. [Auth Does NOT Have To Be Hard YT WDS](https://www.youtube.com/watch?v=mL8EuL7jSbg&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=10)
-8. [What Is Email Only Authentication - Magic Link Auth YT WDS](https://www.youtube.com/watch?v=b6qHfPdv4Y8&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=11)
+2. [NodeJS Authentication with Passport(2021) YT](https://www.youtube.com/playlist?list=PL62km_yqC3ZHlvkKVmR2f3W6SEzh8pRIf)
+3. [What Is JWT and Why Should You Use JWT YT WDS](https://www.youtube.com/watch?v=7Q17ubqLfaM&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=1)
+4. [Node.js Passport Login System Tutorial YT WDS](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=2)
+5. [JWT Authentication Tutorial - Node.js YT WDS](https://www.youtube.com/watch?v=mbsmsi7l3r4&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=3)
+6. [Build Node.js User Authentication - Password Login YT WDS](https://www.youtube.com/watch?v=Ud5xKCYQTjM&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=7)
+7. [Your App Is NOT Secure If You Don’t Use CSRF Tokens YT WDS](https://www.youtube.com/watch?v=80S8h5hEwTY&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=9)
+8. [Auth Does NOT Have To Be Hard YT WDS](https://www.youtube.com/watch?v=mL8EuL7jSbg&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=10)
+9. [What Is Email Only Authentication - Magic Link Auth YT WDS](https://www.youtube.com/watch?v=b6qHfPdv4Y8&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=11)
 
 ## Payments
 

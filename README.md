@@ -81,6 +81,10 @@
 4. [Express Guides](https://expressjs.com/en/guide/routing.html)
 5. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
 
+## Authentication
+
+1. [NodeJS Authentication with Passport(2021) YT](https://www.youtube.com/playlist?list=PL62km_yqC3ZHlvkKVmR2f3W6SEzh8pRIf)
+
 ## Devops
 
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
