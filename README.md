@@ -75,7 +75,7 @@
 
 ## Node + MERN
 
-1. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
+1. [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
 2. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 3. [NodeJS Guides](https://nodejs.org/en/guides)
 4. [Express Basics](https://expressjs.com/en/starter/installing.html)
