@@ -97,7 +97,7 @@
 
 ## React SSR
 
-1. [Server Side Rendering with React and Redux UDM](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+1. [Server Side Rendering with React and Redux UDM SG](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
    1. [GH](https://github.com/pankajspace/ssr-react-redux)
 2. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 
@@ -225,14 +225,15 @@
 1. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
 2. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 3. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
-4. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
-5. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
-6. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
-7. [Greedy Algorithms Tutorials | GeeksforGeeks YT](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
-8. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-9. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
-10. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
-11. [Senior](https://asksenior.in/)
+4. [The Coding Interview Bootcamp: Algorithms + Data Structures UDM SG](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
+5. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
+6. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
+7. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
+8. [Greedy Algorithms Tutorials | GeeksforGeeks YT](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+9. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+10. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
+11. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
+12. [Senior](https://asksenior.in/)
 
 ## Design Patterns
 
