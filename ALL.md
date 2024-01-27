@@ -128,18 +128,20 @@
 
 ## Node
 
-1. [MERN + Auth GH](https://github.com/pankajspace/mern)
-2. [MERN Stack Tutorials + AUTH YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V)
-3. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
-4. [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
-5. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
-   1. [GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
-6. [Express Basics](https://expressjs.com/en/starter/installing.html)
-7. [Express Guides](https://expressjs.com/en/guide/routing.html)
-8. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-9. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
-10. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
-11. [NodeJs Guides](https://nodejs.org/en/guides)
+1.  [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+2.  [Mixu's Node book](https://book.mixu.net/node/)
+3.  [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+4.  [NodeJs Guides](https://nodejs.org/en/guides)
+5.  [Express Basics](https://expressjs.com/en/starter/installing.html)
+6.  [Express Guides](https://expressjs.com/en/guide/routing.html)
+7.  [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+8.  [MERN + Auth GH](https://github.com/pankajspace/mern)
+9.  [MERN Stack Tutorials + AUTH YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V)
+10. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
+11. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+    1. [GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
+12. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
+13. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
 
 ## Automation Testing
 

@@ -76,11 +76,12 @@
 ## Node + MERN
 
 1. [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
-2. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-3. [NodeJS Guides](https://nodejs.org/en/guides)
-4. [Express Basics](https://expressjs.com/en/starter/installing.html)
-5. [Express Guides](https://expressjs.com/en/guide/routing.html)
-6. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+2. [Mixu's Node book](https://book.mixu.net/node/)
+3. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+4. [NodeJs Guides](https://nodejs.org/en/guides)
+5. [Express Basics](https://expressjs.com/en/starter/installing.html)
+6. [Express Guides](https://expressjs.com/en/guide/routing.html)
+7. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
 
 ## Authentication
 
