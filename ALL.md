@@ -200,6 +200,7 @@
 
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
 2. [Docker and Kubernetes: The Complete Guide UDM](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+3. [Docker and Kubernetes Fundamentals YT] (https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
 
 ## Accessibility
 
