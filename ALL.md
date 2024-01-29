@@ -259,6 +259,7 @@
 2. [Implementing Software Architecture of a Large-Scale System UDM](https://www.udemy.com/course/implementing-software-architecture/)
 3. [Software Architecture & Design of Modern Large Scale Systems UDM](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/)
 4. [Software Architecture & System Design Practical Case Studies UDM](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/)
+5. [Domain driven design](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
 
 ## TypeScript
 
