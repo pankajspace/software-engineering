@@ -82,6 +82,7 @@
 5. [Express Basics](https://expressjs.com/en/starter/installing.html)
 6. [Express Guides](https://expressjs.com/en/guide/routing.html)
 7. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+8. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
 
 ## Authentication
 
@@ -91,6 +92,7 @@
 ## Devops
 
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
+2. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
 
 ## MongoDB
 
