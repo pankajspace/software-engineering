@@ -142,6 +142,8 @@
     1. [GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
 12. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
 13. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+14. [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
+15. [8 Essential Node.js Interview Questions](https://www.toptal.com/nodejs/interview-questions)
 
 ## Automation Testing
 
