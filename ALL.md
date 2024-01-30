@@ -114,9 +114,10 @@
 
 ## React Testing
 
-1. [React Testing Library and Jest: The Complete Guide UDM](https://www.udemy.com/course/react-testing-library-and-jest/)
+1. [React Testing Library Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
+2. [React Testing Library and Jest: The Complete Guide UDM](https://www.udemy.com/course/react-testing-library-and-jest/)
    1. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
-2. [React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library/)
+3. [React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library/)
 
 ## Webpack
 
