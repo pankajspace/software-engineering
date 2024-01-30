@@ -113,3 +113,8 @@
 ## Microservices
 
 1. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
+
+## Data Structures, Algorithms & Dynamic Programming
+
+1. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
+2. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
