@@ -63,9 +63,6 @@
 1. [React Reference](https://react.dev/reference/react)
 2. [React Learn](https://react.dev/learn)
 3. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
-4. Render props
-5. Error Boundary
-6. React portal
 
 ## React Testing
 
