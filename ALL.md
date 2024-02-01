@@ -97,9 +97,10 @@
 
 ## React SSR
 
-1. [Server Side Rendering with React and Redux UDM SG](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
+1. [React: Software Architecture](https://www.youtube.com/playlist?list=PLgeETUaEEds75rwfCOKPoND__EaZAwkS8)
+2. [Server Side Rendering with React and Redux UDM SG](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
    1. [GH](https://github.com/pankajspace/ssr-react-redux)
-2. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
+3. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 
 ## React Router
 
@@ -183,8 +184,10 @@
 ## Web Security
 
 1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-2. [Web Security FEM](https://frontendmasters.com/courses/web-security/)
-3. [Web Security & Bug Bounty: Learn Penetration Testing UDM](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
+2. [Node.js Security Best Practices](https://nodejs.org/en/guides/security/)
+3. [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
+4. [Web Security FEM](https://frontendmasters.com/courses/web-security/)
+5. [Web Security & Bug Bounty: Learn Penetration Testing UDM](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
 
 ## Microfrontends
 
