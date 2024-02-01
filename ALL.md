@@ -97,7 +97,7 @@
 
 ## React SSR
 
-1. [React: Software Architecture](https://www.youtube.com/playlist?list=PLgeETUaEEds75rwfCOKPoND__EaZAwkS8)
+1. [React: Software Architecture YT](https://www.youtube.com/playlist?list=PLgeETUaEEds75rwfCOKPoND__EaZAwkS8)
 2. [Server Side Rendering with React and Redux UDM SG](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
    1. [GH](https://github.com/pankajspace/ssr-react-redux)
 3. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
@@ -118,7 +118,8 @@
 1. [React Testing Library Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
 2. [React Testing Library and Jest: The Complete Guide UDM](https://www.udemy.com/course/react-testing-library-and-jest/)
    1. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
-3. [React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library/)
+3. [React Testing Library with Jest / Vitest UDM](https://www.udemy.com/course/react-testing-library/)
+4. [JS cypress e2e testing YT](https://www.youtube.com/watch?v=u8vMu7viCm8)
 
 ## Webpack
 

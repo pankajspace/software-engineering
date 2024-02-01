@@ -72,7 +72,7 @@
 
 ## React SSR
 
-1. [React: Software Architecture](https://www.youtube.com/playlist?list=PLgeETUaEEds75rwfCOKPoND__EaZAwkS8)
+1. [React: Software Architecture YT](https://www.youtube.com/playlist?list=PLgeETUaEEds75rwfCOKPoND__EaZAwkS8)
 2. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 
 ## Redux
