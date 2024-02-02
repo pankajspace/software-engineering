@@ -119,8 +119,7 @@
 2. [React Testing Library and Jest: The Complete Guide UDM](https://www.udemy.com/course/react-testing-library-and-jest/)
    1. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
 3. [React Testing Library with Jest / Vitest UDM](https://www.udemy.com/course/react-testing-library/)
-4. [JS cypress e2e testing YT](https://www.youtube.com/watch?v=u8vMu7viCm8)
-5. [Cypress -Modern Automation Testing from Scratch + Frameworks UDM](https://www.udemy.com/course/cypress-tutorial/)
+4. [NextJS cypress e2e testing YT](https://www.youtube.com/watch?v=u8vMu7viCm8)
 
 ## Webpack
 

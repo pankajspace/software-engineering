@@ -69,6 +69,7 @@
 ## React Testing
 
 1. [React Testing Library Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
+2. [NextJS cypress e2e testing YT](https://www.youtube.com/watch?v=u8vMu7viCm8)
 
 ## React SSR
 
