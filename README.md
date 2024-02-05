@@ -7,7 +7,6 @@
 1. [Learn CSS](https://web.dev/learn/css)
 2. [Responsive Design](https://web.dev/learn/design)
 3. [Learn Images](https://web.dev/learn/images)
-4. [Animations](https://javascript.info/css-animations)
 
 ## Performance
 
@@ -17,8 +16,8 @@
 ## Web Security
 
 1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-2. [Node.js Security Best Practices](https://nodejs.org/en/guides/security/)
-3. [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
+2. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
+3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
 
 ## JavaScript
 
@@ -41,10 +40,11 @@
 17. [Error handling](https://javascript.info/error-handling)
 18. [Promises, async/await](https://javascript.info/async)
 19. [Generators, advanced iteration](https://javascript.info/generators-iterators)
-20. [Modules](https://javascript.info/modules)
+20. [Modules](https://javascript.info/modules)21.
 21. [Polyfills and transpilers](https://javascript.info/polyfills)
 22. [Proxy and Reflect](https://javascript.info/proxy)
-23. [Reference Type](https://javascript.info/reference-type)
+23. [Currying](https://javascript.info/currying-partials)
+24. [Reference Type](https://javascript.info/reference-type)
 
 ## Browser
 
