@@ -65,6 +65,7 @@
 1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
 2. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
 3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
+4. https://youtu.be/1VIZFA3QqFQ?si=mqfndffIf-W2lJeF
 
 ## React Testing
 
