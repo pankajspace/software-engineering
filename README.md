@@ -8,17 +8,6 @@
 2. [Responsive Design](https://web.dev/learn/design)
 3. [Learn Images](https://web.dev/learn/images)
 
-## Performance
-
-1. [Learn Performance](https://web.dev/learn/performance)
-2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
-
-## Web Security
-
-1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-2. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
-3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
-
 ## JavaScript
 
 1. [Data types](https://javascript.info/types)
@@ -65,6 +54,17 @@
 1. [React Reference](https://react.dev/reference/react)
 2. [React Learn](https://react.dev/learn)
 3. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
+
+## Performance
+
+1. [Learn Performance](https://web.dev/learn/performance)
+2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
+
+## Web Security
+
+1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
+2. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
+3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
 
 ## React Testing
 
