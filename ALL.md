@@ -271,13 +271,14 @@
 ## TypeScript
 
 1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
-2. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
+   1. https://github.com/pankajspace/15-typescript-tutorial-tnn
+2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
+3. [MERN Typescript YT](https://github.com/pankajspace/node-typescript)
+4. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
    1. https://github.com/pankajspace/15-mastering-typescript
    2. https://github.com/pankajspace/15-mastering-typescript-react
-   3. https://github.com/pankajspace/15-typescript-oop-solid
-   4. https://github.com/pankajspace/15-typescript-tutorial-tnn
-   5. https://github.com/pankajspace/node-typescript
-3. [Typescript: The Complete Developer's Guide UDM](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+5. https://github.com/pankajspace/15-typescript-oop-solid
+6. [Typescript: The Complete Developer's Guide UDM](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
    1. https://github.com/pankajspace/15-typescript-node-sg
 
 ## AWS

@@ -139,3 +139,4 @@
 ## TypeScript
 
 1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
+2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
