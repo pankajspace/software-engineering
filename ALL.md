@@ -230,10 +230,11 @@
 ## System Design
 
 1. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
-2. [Mastering System Design: From Low-Level to High-Level Solutions GFG](https://www.geeksforgeeks.org/batch/sd-self-paced?tab=Chapters)
-3. [System Design Roadmap](https://whimsical.com/system-design-roadmap-by-tanya-rajhans-HBWU4L6HGs1x9HkAfHBj2U)
-4. [Pragmatic System Design UDM](https://www.udemy.com/course/pragmatic-system-design/)
-5. [Mastering the System Design Interview UDM](https://www.udemy.com/course/system-design-interview-prep/)
+2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
+3. [Mastering System Design: From Low-Level to High-Level Solutions GFG](https://www.geeksforgeeks.org/batch/sd-self-paced?tab=Chapters)
+4. [System Design Roadmap](https://whimsical.com/system-design-roadmap-by-tanya-rajhans-HBWU4L6HGs1x9HkAfHBj2U)
+5. [Pragmatic System Design UDM](https://www.udemy.com/course/pragmatic-system-design/)
+6. [Mastering the System Design Interview UDM](https://www.udemy.com/course/system-design-interview-prep/)
 
 ## Data Structures, Algorithms & Dynamic Programming
 
