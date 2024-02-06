@@ -34,11 +34,6 @@
 8. [Practical CSS Layouts FEM](https://frontendmasters.com/courses/css-layouts/)
 9. [Parallax Landing Page Build YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iAkdBGipl-sd_x9JQKXwK9)
 
-## Performance
-
-1. [Learn Performance](https://web.dev/learn/performance)
-2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
-
 ## JavaScript
 
 1. [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -74,12 +69,19 @@
 
 1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
+   1. [GH]https://github.com/pankajspace/15-js-oop-solid
+3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
 
 ## Tools and Testing
 
 1. [Understanding client-side web development tools MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools)
 2. [Git and GitHub MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub)
 3. [Cross browser testing MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)
+
+## Performance
+
+1. [Learn Performance](https://web.dev/learn/performance)
+2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
 
 ## Web Performance
 
@@ -186,7 +188,7 @@
 
 1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
 2. [Node.js Security Best Practices](https://nodejs.org/en/guides/security/)
-3. [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
+3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
 4. [Web Security FEM](https://frontendmasters.com/courses/web-security/)
 5. [Web Security & Bug Bounty: Learn Penetration Testing UDM](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
 
@@ -277,8 +279,7 @@
 4. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
    1. https://github.com/pankajspace/15-mastering-typescript
    2. https://github.com/pankajspace/15-mastering-typescript-react
-5. https://github.com/pankajspace/15-typescript-oop-solid
-6. [Typescript: The Complete Developer's Guide UDM](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+5. [Typescript: The Complete Developer's Guide UDM](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
    1. https://github.com/pankajspace/15-typescript-node-sg
 
 ## AWS
@@ -298,6 +299,15 @@
 ## Python
 
 1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
+
+## Java
+
+1. [Java Essentials - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYSqRzWc0AJfL9Bza6kdj9V)
+2. [Java Collections - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYwNIFaCLE9oS6npVj4RzHy)
+3. [Generics In Depth - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbJNCU_lS7XC6hPEiTAABn_)
+4. [Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc)
+5. [Spring Boot Quick Start YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI)
 
 ## AI ML
 

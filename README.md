@@ -140,3 +140,16 @@
 
 1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
 2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
+
+## Java
+
+1. [Java Essentials - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYSqRzWc0AJfL9Bza6kdj9V)
+2. [Java Collections - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYwNIFaCLE9oS6npVj4RzHy)
+3. [Generics In Depth - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbJNCU_lS7XC6hPEiTAABn_)
+4. [Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc)
+5. [Spring Boot Quick Start YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI)
+
+## Python
+
+1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
