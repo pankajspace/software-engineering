@@ -54,6 +54,7 @@
 1. [React Reference](https://react.dev/reference/react)
 2. [React Learn](https://react.dev/learn)
 3. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
+4. [React + Router + Context + Reduxt toolkit + React testing library GH](https://github.com/pankajspace/react-all)
 
 ## Performance
 

@@ -96,6 +96,7 @@
 2. [React Learn](https://react.dev/learn)
 3. [React Hooks YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
    1. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
+4. [React + Router + Context + Reduxt toolkit + React testing library GH](https://github.com/pankajspace/react-all)
 
 ## React SSR
 
