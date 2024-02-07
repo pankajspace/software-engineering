@@ -146,12 +146,13 @@
 
 ## Java
 
-1. [Java Essentials - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYSqRzWc0AJfL9Bza6kdj9V)
-2. [Java Collections - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYwNIFaCLE9oS6npVj4RzHy)
-3. [Generics In Depth - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbJNCU_lS7XC6hPEiTAABn_)
-4. [Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc)
-5. [Spring Boot Quick Start YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
-6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI)
+1. [Java Essentials - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYSqRzWc0AJfL9Bza6kdj9V) 7 HR
+2. [Java Collections - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYwNIFaCLE9oS6npVj4RzHy) 4 HR
+3. [Generics In Depth - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbJNCU_lS7XC6hPEiTAABn_) 2.5 HR
+4. [Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc) 3.5 HR
+5. [Spring Boot Quick Start YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) 2.5 HR
+6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
+7. [Functional Java - Java Backend Bootcamp](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4HR
 
 ## Python
 
