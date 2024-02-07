@@ -48,6 +48,8 @@
 9. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
 10. [Mutation observer](https://javascript.info/mutation-observer)
 11. [Storing data in the browser](https://javascript.info/data-storage)
+12. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+13. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 
 ## React
 
@@ -60,6 +62,7 @@
 
 1. [Learn Performance](https://web.dev/learn/performance)
 2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
+3. [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
 
 ## Web Security
 
@@ -143,6 +146,10 @@
 
 1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
 2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
+
+## PWA
+
+1. [Learn PWA](https://web.dev/learn/pwa)
 
 ## Java
 
