@@ -162,7 +162,8 @@
 4. [Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc) 3.5 HR
 5. [Spring Boot Quick Start YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) 2.5 HR
 6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
-7. [Functional Java - Java Backend Bootcamp](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
+7. [Java Concurrency - Full Course](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) HR
+8. [Functional Java - Java Backend Bootcamp](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
 
 ## Python
 
