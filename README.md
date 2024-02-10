@@ -154,7 +154,7 @@
 
 1. [Learn PWA](https://web.dev/learn/pwa)
 
-## Java
+## Java & DB
 
 1. [Java Essentials - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYSqRzWc0AJfL9Bza6kdj9V) 7 HR
 2. [Core Java Quick Dive - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZub8gxpKg6tox_yWmB_j4R) 2.5 HR
@@ -163,8 +163,10 @@
 5. [Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc) 3.5 HR
 6. [Spring Boot Quick Start YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) 2.5 HR
 7. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
-8. [Functional Java - Java Backend Bootcamp JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
+8. [Functional Java - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
 9. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
+10. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
+11. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
 
 ## Python
 
