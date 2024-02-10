@@ -358,7 +358,8 @@
 9. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
 10. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
 11. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
-12. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
+12. [Core Java Interview Questions 1](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
+13. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
 
 ## AI ML
 
