@@ -351,14 +351,14 @@
 2. [Core Java Quick Dive - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZub8gxpKg6tox_yWmB_j4R) 2.5 HR
 3. [Java Collections In Depth - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbgAXn1Tz7p9QE-Yp7JSolX) 5 HR
 4. [Generics In Depth - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbJNCU_lS7XC6hPEiTAABn_) 2.5 HR
-5. [Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc) 3.5 HR
-6. [Spring Boot Quick Start YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) 2.5 HR
-7. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
-8. [Functional Java - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
-9. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
-10. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
-11. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
-12. [Core Java Interview Questions 1](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
+5. [Spring Boot Complete Tutorial - Master Class YT](https://www.youtube.com/watch?v=zvR-Oif_nxg) 9.5 HR
+6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
+7. [Functional Java - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
+8. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
+9. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
+10. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
+11. [Core Java Interview Questions 1](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
+12. [Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
 13. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
 
 ## AI ML
