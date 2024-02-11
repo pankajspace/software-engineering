@@ -50,6 +50,7 @@
 11. [Storing data in the browser](https://javascript.info/data-storage)
 12. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 13. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+14. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 ## React
 
@@ -57,6 +58,7 @@
 2. [React Learn](https://react.dev/learn)
 3. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 4. [React + Router + Context + Reduxt toolkit + React testing library GH](https://github.com/pankajspace/react-all)
+5. [React App Security YT](https://youtu.be/1VIZFA3QqFQ?si=mqfndffIf-W2lJeF)
 
 ## Performance
 
@@ -69,7 +71,6 @@
 1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
 2. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
 3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
-4. https://youtu.be/1VIZFA3QqFQ?si=mqfndffIf-W2lJeF
 
 ## React Testing
 
@@ -98,13 +99,14 @@
 ## Node + MERN
 
 1. [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
-2. [Mixu's Node book](https://book.mixu.net/node/)
-3. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-4. [NodeJs Guides](https://nodejs.org/en/guides)
-5. [Express Basics](https://expressjs.com/en/starter/installing.html)
-6. [Express Guides](https://expressjs.com/en/guide/routing.html)
-7. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+2. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+3. [NodeJs Guides](https://nodejs.org/en/guides)
+4. [Express Basics](https://expressjs.com/en/starter/installing.html)
+5. [Express Guides](https://expressjs.com/en/guide/routing.html)
+6. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+7. [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
 8. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
+9. [Mixu's Node book](https://book.mixu.net/node/)
 
 ## Authentication
 
@@ -145,14 +147,29 @@
 2. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
 3. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
+## Design Patterns
+
+1. [Improve how you architect webapps](https://www.patterns.dev/)
+
+## Good Coding
+
+1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
+2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
+   1. [GH]https://github.com/pankajspace/15-js-oop-solid
+3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
+
 ## TypeScript
 
 1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
 2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
 
-## PWA
+## PWA / Service Worker
 
 1. [Learn PWA](https://web.dev/learn/pwa)
+
+## AWS
+
+1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
 ## Java & DB
 

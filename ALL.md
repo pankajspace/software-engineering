@@ -76,6 +76,7 @@
 11. [Storing data in the browser](https://javascript.info/data-storage)
 12. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 13. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+14. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 ## JavaScript Additional
 
@@ -140,6 +141,7 @@
 3. [React Hooks YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
    1. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 4. [React + Router + Context + Reduxt toolkit + React testing library GH](https://github.com/pankajspace/react-all)
+5. [React App Security YT](https://youtu.be/1VIZFA3QqFQ?si=mqfndffIf-W2lJeF)
 
 ## React SSR
 
@@ -184,7 +186,7 @@
 5.  [Express Basics](https://expressjs.com/en/starter/installing.html)
 6.  [Express Guides](https://expressjs.com/en/guide/routing.html)
 7.  [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-8.  [MERN + Auth GH](https://github.com/pankajspace/mern)
+8.  [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
 9.  [MERN Stack Tutorials + AUTH YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V)
 10. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
 11. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
@@ -336,7 +338,7 @@
 5. [Ultimate AWS Certified Solutions Architect Professional 2024](https://www.udemy.com/course/aws-solutions-architect-professional/)
 6. [Ultimate AWS Certified Security Specialty SCS-C02](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
 
-## PWA
+## PWA / Service Worker
 
 1. [Learn PWA](https://web.dev/learn/pwa)
 2. [Build Progressive Web Apps (PWAs) from Scratch FEM](https://frontendmasters.com/courses/pwas/)
