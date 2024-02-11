@@ -360,6 +360,7 @@
 11. [Core Java Interview Questions 1](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
 12. [Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
 13. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
+14. [Spring Academy](https://spring.academy/home)
 
 ## AI ML
 
