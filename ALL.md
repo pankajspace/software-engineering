@@ -114,6 +114,9 @@
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
    1. [GH]https://github.com/pankajspace/15-js-oop-solid
 3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
+4. [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+5. [Clean Architecture YT](https://www.youtube.com/playlist?list=PLby1BKAzwnsFAaLCt--kofuHOfRIOGtPi)
+6. [Clean Architecture & DDD Series YT](https://www.youtube.com/playlist?list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa)
 
 ## Tools and Testing
 
@@ -281,6 +284,12 @@
 4. [System Design Roadmap](https://whimsical.com/system-design-roadmap-by-tanya-rajhans-HBWU4L6HGs1x9HkAfHBj2U)
 5. [Pragmatic System Design UDM](https://www.udemy.com/course/pragmatic-system-design/)
 6. [Mastering the System Design Interview UDM](https://www.udemy.com/course/system-design-interview-prep/)
+7. [System Design Interview Guide for Software Architecture UDM](https://www.udemy.com/course/system-design-a-comprehensive-guide/)
+8. [System Design Tutorial GFG](https://www.geeksforgeeks.org/system-design-tutorial/)
+9. [The complete guide to System Design in 2024](https://www.educative.io/blog/complete-guide-to-system-design)
+10. [System Design Roadmap](https://roadmap.sh/system-design)
+11. [System Design Primer Course YT](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+12. [System Design Playlist in Hindi YT](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM)
 
 ## Data Structures, Algorithms & Dynamic Programming
 
@@ -346,6 +355,20 @@
 1. [Learn PWA](https://web.dev/learn/pwa)
 2. [Build Progressive Web Apps (PWAs) from Scratch FEM](https://frontendmasters.com/courses/pwas/)
 
+## Coding Practice
+
+1. [LeetCode](https://leetcode.com/problemset/)
+2. [LeetCode Solutions YT](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
+3. [LeetCode Solutions: Mastering Algorithms YT](https://www.youtube.com/playlist?list=PLA3GkZPtsafYf3I3ROaCOQCQjr4EnzNsS)
+4. [HackerRank](https://www.hackerrank.com/)
+5. [Hackerearth](https://www.hackerearth.com/)
+6. [Codechef](https://www.codechef.com/)
+7. [Codeforces](https://codeforces.com/)
+8. [InterviewBit](https://www.interviewbit.com/)
+9. [CodeSignal](https://codesignal.com/)
+10. [Codility](https://www.codility.com/)
+11. [Codewars](https://www.codewars.com/)
+
 ## Python
 
 1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
@@ -363,10 +386,11 @@
 9. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
 10. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
 11. [Core Java Interview Questions 1 YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
-12. [Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
-13. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
+12. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
+13. [Java Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
 14. [Spring Academy](https://spring.academy/home)
-15. [Spring Boot 3, Spring 6 & Hibernate for Beginners UDM](https://www.udemy.com/course/spring-hibernate-tutorial/) 33.5 HR
+15. [REST API to Microservices Course | Building a Job Application YT](https://www.youtube.com/playlist?list=PLxhSr_SLdXGPCS0F-4v5zEXATHnHLT7Qf)
+16. [Spring Boot 3, Spring 6 & Hibernate for Beginners UDM](https://www.udemy.com/course/spring-hibernate-tutorial/) 33.5 HR
 
 ## AI ML
 
