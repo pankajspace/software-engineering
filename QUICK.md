@@ -73,9 +73,15 @@
 1. [Learn Performance](https://web.dev/learn/performance)
 2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
 
+## Data Structures, Algorithms & Dynamic Programming
+
+1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+2. [JavaScript Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
+
 ## Design Patterns
 
-1. [Improve how you architect webapps](https://www.patterns.dev/)
+1. [Design Patterns YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f)
+2. [Improve how you architect webapps](https://www.patterns.dev/)
 
 ## Good Coding
 

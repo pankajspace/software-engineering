@@ -143,13 +143,13 @@
 
 ## Data Structures, Algorithms & Dynamic Programming
 
-1. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
-2. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
-3. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+2. [JavaScript Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
 
 ## Design Patterns
 
-1. [Improve how you architect webapps](https://www.patterns.dev/)
+1. [Design Patterns YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f)
+2. [Improve how you architect webapps](https://www.patterns.dev/)
 
 ## Good Coding
 
