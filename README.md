@@ -161,14 +161,15 @@
 3. [Java Collections In Depth - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbgAXn1Tz7p9QE-Yp7JSolX) 5 HR
 4. [Generics In Depth - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbJNCU_lS7XC6hPEiTAABn_) 2.5 HR
 5. [Spring Boot Complete Tutorial - Master Class YT](https://www.youtube.com/watch?v=zvR-Oif_nxg) 9.5 HR
-6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
-7. [Functional Java - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
+6. [Functional Java - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
+7. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
 8. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
 9. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
 10. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
-11. [Core Java Interview Questions 1](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
+11. [Core Java Interview Questions 1 YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
 12. [Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
 13. [Spring Academy](https://spring.academy/home)
+14. [Spring Boot 3, Spring 6 & Hibernate for Beginners UDM](https://www.udemy.com/course/spring-hibernate-tutorial/) 33.5 HR
 
 ## Python
 
