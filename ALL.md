@@ -298,15 +298,19 @@
 3. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
 4. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
 5. [JavaScript Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
-6. [The Coding Interview Bootcamp: Algorithms + Data Structures UDM SG](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
-7. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
-8. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
-9. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
-10. [Greedy Algorithms Tutorials | GeeksforGeeks YT](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
-11. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-12. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
-13. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
-14. [Senior](https://asksenior.in/)
+6. [Top Interview Questions Leetcode](https://leetcode.com/problem-list/top-interview-questions/)
+7. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+8. [Algorithms, Part I Coursera](https://www.coursera.org/learn/algorithms-part1)
+9. [Algorithms, Part II Coursera](https://www.coursera.org/learn/algorithms-part2)
+10. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
+11. [The Coding Interview Bootcamp: Algorithms + Data Structures UDM SG](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
+12. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
+13. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
+14. [Greedy Algorithms Tutorials | GeeksforGeeks YT](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+15. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+16. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
+17. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
+18. [Senior](https://asksenior.in/)
 
 ## Design Patterns
 
@@ -372,6 +376,7 @@
 ## Python
 
 1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
+2. [Python for Everybody Specialization Coursera](https://www.coursera.org/specializations/python)
 
 ## Java & DB
 
@@ -404,8 +409,9 @@
 
 ## General
 
-1. [ZTM Blog](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
-2. [WDS Blog](https://blog.webdevsimplified.com/)
+1. [Learning How to Learn Coursera](https://www.coursera.org/learn/learning-how-to-learn)
+2. [ZTM Blog](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+3. [WDS Blog](https://blog.webdevsimplified.com/)
 
 ## Coding Maths
 
@@ -413,3 +419,4 @@
 2. [Master the Fundamentals of Math](https://www.udemy.com/course/fundamentals-of-math/)
 3. [Become a Probability & Statistics Master](https://www.udemy.com/course/statistics-probability/)
 4. [Quntitative Aptitude](https://www.youtube.com/playlist?list=PLN7-HyA4mGr8r6Uoy_C5sW6ZIYqe5-gCg)
+5. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)

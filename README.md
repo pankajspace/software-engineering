@@ -145,6 +145,7 @@
 
 1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
 2. [JavaScript Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
+3. [Top Interview Questions Leetcode](https://leetcode.com/problem-list/top-interview-questions/)
 
 ## Design Patterns
 
