@@ -41,15 +41,15 @@
 
 ## JavaScript
 
-1. [Data types](https://javascript.info/types)
-2. [Type Conversions](https://javascript.info/type-conversions)
-3. [Basic operators, maths](https://javascript.info/operators)
-4. [Logical operators](https://javascript.info/logical-operators)
-5. [Nullish coalescing operator '??'](https://javascript.info/nullish-coalescing-operator)
-6. [Loops](https://javascript.info/while-for)
-7. [Functions](https://javascript.info/function-basics)
-8. [Function expressions](https://javascript.info/function-expressions)
-9. [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
+1.  [Data types](https://javascript.info/types)
+2.  [Type Conversions](https://javascript.info/type-conversions)
+3.  [Basic operators, maths](https://javascript.info/operators)
+4.  [Logical operators](https://javascript.info/logical-operators)
+5.  [Nullish coalescing operator '??'](https://javascript.info/nullish-coalescing-operator)
+6.  [Loops](https://javascript.info/while-for)
+7.  [Functions](https://javascript.info/function-basics)
+8.  [Function expressions](https://javascript.info/function-expressions)
+9.  [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
 10. [JavaScript specials](https://javascript.info/javascript-specials)
 11. [Objects: the basics](https://javascript.info/object-basics)
 12. [Data types](https://javascript.info/data-types)
@@ -68,32 +68,41 @@
 
 ## Browser
 
-1. [Browser environment, specs](https://javascript.info/browser-environment)
-2. [DOM tree](https://javascript.info/dom-nodes)
-3. [Attributes and properties](https://javascript.info/dom-attributes-and-properties)
-4. [Walking the DOM](https://javascript.info/dom-navigation)
-5. [Modifying the DOM](https://javascript.info/modifying-document)
-6. [Searching DOM](https://javascript.info/searching-elements-dom)
-7. [Events](https://javascript.info/events)
-8. [Document and resource loading](https://javascript.info/loading)
-9. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
+1.  [Browser environment, specs](https://javascript.info/browser-environment)
+2.  [DOM tree](https://javascript.info/dom-nodes)
+3.  [Attributes and properties](https://javascript.info/dom-attributes-and-properties)
+4.  [Walking the DOM](https://javascript.info/dom-navigation)
+5.  [Modifying the DOM](https://javascript.info/modifying-document)
+6.  [Searching DOM](https://javascript.info/searching-elements-dom)
+7.  [Events](https://javascript.info/events)
+8.  [Document and resource loading](https://javascript.info/loading)
+9.  [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
 10. [Mutation observer](https://javascript.info/mutation-observer)
 11. [Storing data in the browser](https://javascript.info/data-storage)
 12. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 13. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 14. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
+## JavaScript Basic & Functional
+
+1.  [Deep JavaScript Foundations v3 FEM](https://frontendmasters.com/courses/deep-javascript-v3/)
+2.  [The Hard Parts of Asynchronous JavaScript FEM](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+3.  [JavaScript: The Recent Parts FEM](https://frontendmasters.com/courses/js-recent-parts/)
+4.  [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/)
+5.  [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/)
+6.  [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/)
+
 ## JavaScript Additional
 
-1. [JavaScript language overview MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
-2. [JavaScript Guide MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-3. [JavaScript data types and data structures MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-4. [JavaScript Type Conversions](https://www.programiz.com/javascript/type-conversion)
-5. [Equality comparisons and sameness MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
-6. [Enumerability and ownership of properties MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
-7. [Closures MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-8. [Inheritance and the prototype chain MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-9. [Memory management MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
+1.  [JavaScript language overview MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
+2.  [JavaScript Guide MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+3.  [JavaScript data types and data structures MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+4.  [JavaScript Type Conversions](https://www.programiz.com/javascript/type-conversion)
+5.  [Equality comparisons and sameness MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+6.  [Enumerability and ownership of properties MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
+7.  [Closures MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+8.  [Inheritance and the prototype chain MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+9.  [Memory management MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
 10. [The event loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
 11. !!! [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
 12. [Manipulating documents MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
@@ -102,16 +111,10 @@
 15. [Advanced Javascript Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
 16. [Javascript Interview Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
 17. [JavaScript: The Advanced Concepts UDM ZTM](https://www.udemy.com/course/advanced-javascript-concepts/)
-18. [Deep JavaScript Foundations v3 FEM](https://frontendmasters.com/courses/deep-javascript-v3/)
-19. [JavaScript: The Recent Parts FEM](https://frontendmasters.com/courses/js-recent-parts/)
-20. [JavaScript: The Hard Parts v2 FEM](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
-21. [Rethinking Asynchronous JavaScript FEM](https://frontendmasters.com/courses/rethinking-async-js/)
-22. [The Hard Parts of Asynchronous JavaScript FEM](https://frontendmasters.com/courses/javascript-new-hard-parts/)
-23. [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/)
-24. [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/)
-25. [The Hard Parts of Object Oriented JavaScript FEM](https://frontendmasters.com/courses/object-oriented-js/)
-26. [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/)
-27. [Advanced Web Development Quiz FEM](https://frontendmasters.com/courses/web-dev-quiz/)
+18. [JavaScript: The Hard Parts v2 FEM](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+19. [Rethinking Asynchronous JavaScript FEM](https://frontendmasters.com/courses/rethinking-async-js/)
+20. [The Hard Parts of Object Oriented JavaScript FEM](https://frontendmasters.com/courses/object-oriented-js/)
+21. [Advanced Web Development Quiz FEM](https://frontendmasters.com/courses/web-dev-quiz/)
 
 ## Good Coding
 
@@ -384,24 +387,27 @@
 1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
 2. [Python for Everybody Specialization Coursera](https://www.coursera.org/specializations/python)
 
-## Java & DB
+## Java Core
 
 1. [Java Essentials - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYSqRzWc0AJfL9Bza6kdj9V) 7 HR
 2. [Core Java Quick Dive - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZub8gxpKg6tox_yWmB_j4R) 2.5 HR
 3. [Java Collections In Depth - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbgAXn1Tz7p9QE-Yp7JSolX) 5 HR
 4. [Generics In Depth - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbJNCU_lS7XC6hPEiTAABn_) 2.5 HR
-5. [Spring Boot Complete Tutorial - Master Class YT](https://www.youtube.com/watch?v=zvR-Oif_nxg) 9.5 HR
-6. [Functional Java - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
-7. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
-8. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
-9. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
-10. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
-11. [Core Java Interview Questions 1 YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T)
-12. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
-13. [Java Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
-14. [Spring Academy](https://spring.academy/home)
-15. [REST API to Microservices Course | Building a Job Application YT](https://www.youtube.com/playlist?list=PLxhSr_SLdXGPCS0F-4v5zEXATHnHLT7Qf)
-16. [Spring Boot 3, Spring 6 & Hibernate for Beginners UDM](https://www.udemy.com/course/spring-hibernate-tutorial/) 33.5 HR
+5. [Functional Java - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbobgvdemOhBH_D_sz3kD8c) 4 HR
+6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
+7. [Core Java Interview Questions 1 YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T) 2.5 HR
+
+## Java Advanced
+
+1. [Spring Boot Complete Tutorial - Master Class YT](https://www.youtube.com/watch?v=zvR-Oif_nxg) 9.5 HR
+2. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
+3. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
+4. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
+5. [Java Backend Bootcamp](https://www.javabrains.io/courses/java-backend-bootcamp-private) 21 HR
+6. [Java Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
+7. [Spring Academy](https://spring.academy/home)
+8. [REST API to Microservices Course | Building a Job Application YT](https://www.youtube.com/playlist?list=PLxhSr_SLdXGPCS0F-4v5zEXATHnHLT7Qf)
+9. [Spring Boot 3, Spring 6 & Hibernate for Beginners UDM](https://www.udemy.com/course/spring-hibernate-tutorial/) 33.5 HR
 
 ## AI ML
 
