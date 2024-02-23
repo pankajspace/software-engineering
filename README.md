@@ -165,6 +165,8 @@
    1. [GH](https://github.com/pankajspace/typescript-yt-tnn)
    2. [GH forked](https://github.com/pankajspace/15-typescript-tutorial-tnn)
 2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
+3. [Typescript: The Complete Developer's Guide UDM SG](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+   1. https://github.com/pankajspace/15-typescript-node-sg
 
 ## PWA / Service Worker
 

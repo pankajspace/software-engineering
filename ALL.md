@@ -348,7 +348,7 @@
 4. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
    1. https://github.com/pankajspace/15-mastering-typescript
    2. https://github.com/pankajspace/15-mastering-typescript-react
-5. [Typescript: The Complete Developer's Guide UDM](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+5. [Typescript: The Complete Developer's Guide UDM SG](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
    1. https://github.com/pankajspace/15-typescript-node-sg
 
 ## AWS
