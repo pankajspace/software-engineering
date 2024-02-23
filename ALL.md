@@ -344,13 +344,13 @@
 ## TypeScript
 
 1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
-   1. [GH](https://github.com/pankajspace/typescript-yt-tnn)
-   2. [GH forked](https://github.com/pankajspace/15-typescript-tutorial-tnn)
+   1. [GH forked](https://github.com/pankajspace/15-typescript-tutorial-tnn)
+   2. [GH forked](https://github.com/pankajspace/typescript-masterclass)
 2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
-3. [ExpressJS Typescript YT](https://github.com/pankajspace/node-typescript)
-4. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
+3. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
    1. https://github.com/pankajspace/15-mastering-typescript
    2. https://github.com/pankajspace/15-mastering-typescript-react
+4. [ExpressJS Typescript YT](https://github.com/pankajspace/node-typescript)
 5. [Typescript: The Complete Developer's Guide UDM SG](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
    1. https://github.com/pankajspace/15-typescript-node-sg
 
