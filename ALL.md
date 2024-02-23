@@ -301,24 +301,23 @@
 
 ## Data Structures, Algorithms & Dynamic Programming
 
-1. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
-2. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-3. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
-4. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
-5. [JavaScript Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
-6. [Top Interview Questions Leetcode](https://leetcode.com/problem-list/top-interview-questions/)
-7. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-8. [Algorithms, Part I Coursera](https://www.coursera.org/learn/algorithms-part1)
-9. [Algorithms, Part II Coursera](https://www.coursera.org/learn/algorithms-part2)
-10. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
-11. [The Coding Interview Bootcamp: Algorithms + Data Structures UDM SG](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
-12. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
-13. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
-14. [Greedy Algorithms Tutorials | GeeksforGeeks YT](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
-15. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-16. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
-17. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
-18. [Senior](https://asksenior.in/)
+1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
+2. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
+3. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
+5. [Top Interview Questions Leetcode](https://leetcode.com/problem-list/top-interview-questions/)
+6. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+7. [Algorithms, Part I Coursera](https://www.coursera.org/learn/algorithms-part1)
+8. [Algorithms, Part II Coursera](https://www.coursera.org/learn/algorithms-part2)
+9. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
+10. [The Coding Interview Bootcamp: Algorithms + Data Structures UDM SG](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
+11. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
+12. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
+13. [Greedy Algorithms Tutorials | GeeksforGeeks YT](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+14. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+15. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
+16. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
+17. [Senior](https://asksenior.in/)
 
 ## Design Patterns
 

@@ -73,15 +73,25 @@
 1. [Learn Performance](https://web.dev/learn/performance)
 2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
 
+## System Design
+
+1. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
+2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
+
 ## Data Structures, Algorithms & Dynamic Programming
 
 1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
-2. [JavaScript Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
+2. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
+3. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
+5. [Top Interview Questions Leetcode](https://leetcode.com/problem-list/top-interview-questions/)
 
 ## Design Patterns
 
 1. [Design Patterns YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f)
-2. [Improve how you architect webapps](https://www.patterns.dev/)
+2. [Design Patterns in JavaScript UDM](https://www.udemy.com/course/design-patterns-javascript/)
+3. [Design Patterns in TypeScript UDM](https://www.udemy.com/course/design-patterns-in-typescript/)
+4. [Improve how you architect webapps](https://www.patterns.dev/)
 
 ## Good Coding
 
