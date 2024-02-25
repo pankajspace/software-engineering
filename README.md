@@ -35,6 +35,15 @@
 23. [Currying](https://javascript.info/currying-partials)
 24. [Reference Type](https://javascript.info/reference-type)
 
+## JavaScript Basic & Functional
+
+1.  [Deep JavaScript Foundations v3 FEM](https://frontendmasters.com/courses/deep-javascript-v3/)
+2.  [The Hard Parts of Asynchronous JavaScript FEM](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+3.  [JavaScript: The Recent Parts FEM](https://frontendmasters.com/courses/js-recent-parts/)
+4.  [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/)
+5.  [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/)
+6.  [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/)
+
 ## JavaScript Event Loop
 
 1. [Node.js Event Loop YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN)
@@ -191,6 +200,14 @@
 ## AWS
 
 1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+
+## Networking
+
+1. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+
+## Linux
+
+1. [Introduction to Linux & Terminal Commands - Full Course for Beginners YT](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ## Java Core
 

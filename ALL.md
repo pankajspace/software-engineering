@@ -422,6 +422,14 @@
 6. [Machine Learning Basic to Advanced GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
 7. [Prompt Engineering for Beginners Tutorials YT](https://youtube.com/playlist?list=PL6gx4Cwl9DGDv5eyBLEd9l3ZZzVoroxIZ&si=v2V_d-COQJ1HY-mT)
 
+## Networking
+
+1. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+
+## Linux
+
+1. [Introduction to Linux & Terminal Commands - Full Course for Beginners YT](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+
 ## General
 
 1. [Learning How to Learn Coursera](https://www.coursera.org/learn/learning-how-to-learn)
