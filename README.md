@@ -165,7 +165,7 @@
 
 1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
-   1. [GH]https://github.com/pankajspace/15-js-oop-solid
+   1. [GH](https://github.com/pankajspace/15-js-oop-solid)
 3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
 
 ## TypeScript
