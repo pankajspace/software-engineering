@@ -331,6 +331,7 @@
 5. [JS DP freecodecamp](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
 6. [JavaScript Design Patterns dofactory](https://www.dofactory.com/javascript/design-patterns)
 7. [JS DP GH](https://github.com/pankajspace/07-js-design-patterns)
+8. https://blog.bitsrc.io/nodejs-design-patterns-must-know-8ef0a73b3339
 
 ## Architecture
 
