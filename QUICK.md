@@ -6,7 +6,7 @@
 
 1. [Learn CSS](https://web.dev/learn/css)
 
-## JavaScript Advanced
+## JavaScript
 
 1. [Data types](https://javascript.info/types)
 2. [Type Conversions](https://javascript.info/type-conversions)
@@ -25,10 +25,16 @@
 15. [Currying](https://javascript.info/currying-partials)
 16. [Reference Type](https://javascript.info/reference-type)
 
+## JavaScript Event Loop
+
+1. [Node.js Event Loop YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN)
+2. [The event loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+3. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
+4. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
+
 ## Browser
 
 1. [Document and resource loading](https://javascript.info/loading)
-2. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
 
 ## React
 
@@ -38,13 +44,12 @@
 
 ## Node / Express
 
-1. [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
-2. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-3. [NodeJs Guides](https://nodejs.org/en/guides)
-4. [Express Basics](https://expressjs.com/en/starter/installing.html)
-5. [Express Guides](https://expressjs.com/en/guide/routing.html)
-6. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-7. [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
+1. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+2. [NodeJs Guides](https://nodejs.org/en/guides)
+3. [Express Basics](https://expressjs.com/en/starter/installing.html)
+4. [Express Guides](https://expressjs.com/en/guide/routing.html)
+5. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+6. [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
 
 ## MongoDB
 
@@ -75,8 +80,7 @@
 
 ## System Design
 
-1. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
-2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
+1. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
 
 ## Data Structures, Algorithms & Dynamic Programming
 

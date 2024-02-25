@@ -35,6 +35,13 @@
 23. [Currying](https://javascript.info/currying-partials)
 24. [Reference Type](https://javascript.info/reference-type)
 
+## JavaScript Event Loop
+
+1. [Node.js Event Loop YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN)
+2. [The event loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+3. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
+4. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
+
 ## Browser
 
 1. [Browser environment, specs](https://javascript.info/browser-environment)
@@ -45,12 +52,11 @@
 6. [Searching DOM](https://javascript.info/searching-elements-dom)
 7. [Events](https://javascript.info/events)
 8. [Document and resource loading](https://javascript.info/loading)
-9. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
-10. [Mutation observer](https://javascript.info/mutation-observer)
-11. [Storing data in the browser](https://javascript.info/data-storage)
-12. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-13. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
-14. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+9. [Mutation observer](https://javascript.info/mutation-observer)
+10. [Storing data in the browser](https://javascript.info/data-storage)
+11. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+12. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+13. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 ## React
 
@@ -98,15 +104,14 @@
 
 ## Node + MERN
 
-1. [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
-2. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-3. [NodeJs Guides](https://nodejs.org/en/guides)
-4. [Express Basics](https://expressjs.com/en/starter/installing.html)
-5. [Express Guides](https://expressjs.com/en/guide/routing.html)
-6. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
-7. [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
-8. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
-9. [Mixu's Node book](https://book.mixu.net/node/)
+1. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+2. [NodeJs Guides](https://nodejs.org/en/guides)
+3. [Express Basics](https://expressjs.com/en/starter/installing.html)
+4. [Express Guides](https://expressjs.com/en/guide/routing.html)
+5. [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
+6. [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
+7. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
+8. [Mixu's Node book](https://book.mixu.net/node/)
 
 ## Authentication
 

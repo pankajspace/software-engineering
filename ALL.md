@@ -66,6 +66,13 @@
 23. [Currying](https://javascript.info/currying-partials)
 24. [Reference Type](https://javascript.info/reference-type)
 
+## JavaScript Event Loop
+
+1. [Node.js Event Loop YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN)
+2. [The event loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+3. [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
+4. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
+
 ## Browser
 
 1.  [Browser environment, specs](https://javascript.info/browser-environment)
@@ -76,12 +83,11 @@
 6.  [Searching DOM](https://javascript.info/searching-elements-dom)
 7.  [Events](https://javascript.info/events)
 8.  [Document and resource loading](https://javascript.info/loading)
-9.  [Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
-10. [Mutation observer](https://javascript.info/mutation-observer)
-11. [Storing data in the browser](https://javascript.info/data-storage)
-12. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-13. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
-14. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+9.  [Mutation observer](https://javascript.info/mutation-observer)
+10. [Storing data in the browser](https://javascript.info/data-storage)
+11. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+12. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+13. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 ## JavaScript Basic & Functional
 
@@ -103,18 +109,16 @@
 7.  [Closures MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 8.  [Inheritance and the prototype chain MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 9.  [Memory management MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
-10. [The event loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
-11. !!! [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
-12. [Manipulating documents MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-13. [Client-side storage MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
-14. [JavaScript reference MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-15. [Advanced Javascript Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
-16. [Javascript Interview Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
-17. [JavaScript: The Advanced Concepts UDM ZTM](https://www.udemy.com/course/advanced-javascript-concepts/)
-18. [JavaScript: The Hard Parts v2 FEM](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
-19. [Rethinking Asynchronous JavaScript FEM](https://frontendmasters.com/courses/rethinking-async-js/)
-20. [The Hard Parts of Object Oriented JavaScript FEM](https://frontendmasters.com/courses/object-oriented-js/)
-21. [Advanced Web Development Quiz FEM](https://frontendmasters.com/courses/web-dev-quiz/)
+10. [Manipulating documents MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+11. [Client-side storage MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+12. [JavaScript reference MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+13. [Advanced Javascript Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
+14. [Javascript Interview Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
+15. [JavaScript: The Advanced Concepts UDM ZTM](https://www.udemy.com/course/advanced-javascript-concepts/)
+16. [JavaScript: The Hard Parts v2 FEM](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+17. [Rethinking Asynchronous JavaScript FEM](https://frontendmasters.com/courses/rethinking-async-js/)
+18. [The Hard Parts of Object Oriented JavaScript FEM](https://frontendmasters.com/courses/object-oriented-js/)
+19. [Advanced Web Development Quiz FEM](https://frontendmasters.com/courses/web-dev-quiz/)
 
 ## Good Coding
 
@@ -190,7 +194,6 @@
 
 ## Node
 
-1.  [Event Loop MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
 2.  [Mixu's Node book](https://book.mixu.net/node/)
 3.  [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 4.  [NodeJs Guides](https://nodejs.org/en/guides)
@@ -199,13 +202,12 @@
 7.  [Express Advanced Topics](https://expressjs.com/en/advanced/developing-template-engines.html)
 8.  [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
 9.  [MERN Stack Tutorials + AUTH YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V)
-10. [Event Loop FULL Advanced JavaScript Concepts YT](https://www.youtube.com/watch?v=lMKhJPbK0HE)
-11. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+10. [Complete NodeJS Developer UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
     1. [GH](https://github.com/pankajspace?tab=repositories&q=complete-nodejs-dev&type=source&language=&sort=name)
-12. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
-13. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
-14. [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
-15. [8 Essential Node.js Interview Questions](https://www.toptal.com/nodejs/interview-questions)
+11. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
+12. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+13. [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
+14. [8 Essential Node.js Interview Questions](https://www.toptal.com/nodejs/interview-questions)
 
 ## Automation Testing
 
