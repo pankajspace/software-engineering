@@ -1,7 +1,3 @@
-## TypeScript
-
-1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
-
 ## System Design
 
 1. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
