@@ -177,6 +177,7 @@
 3. [Mastering TypeScript UDM](https://www.udemy.com/course/learn-typescript/)
    1. https://github.com/pankajspace/15-mastering-typescript
    2. https://github.com/pankajspace/15-mastering-typescript-react
+4. [Typescript Masterclass GH](https://github.com/pankajspace/typescript-masterclass-tnn)
 
 ## PWA / Service Worker
 

@@ -352,6 +352,7 @@
 4. [ExpressJS Typescript YT](https://github.com/pankajspace/node-typescript)
 5. [Typescript: The Complete Developer's Guide UDM SG](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
    1. https://github.com/pankajspace/15-typescript-node-sg
+6. [Typescript Masterclass GH](https://github.com/pankajspace/typescript-masterclass-tnn)
 
 ## AWS
 

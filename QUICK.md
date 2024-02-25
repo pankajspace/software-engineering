@@ -106,3 +106,4 @@
    1. [GH forked](https://github.com/pankajspace/15-typescript-tutorial-tnn)
    2. [GH forked](https://github.com/pankajspace/typescript-masterclass)
 2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
+3. [Typescript Masterclass GH](https://github.com/pankajspace/typescript-masterclass-tnn)
