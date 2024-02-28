@@ -234,10 +234,10 @@
 
 ## Database
 
-1. [Complete Intro to Databases FEM](https://frontendmasters.com/courses/databases/)
-2. [Complete MongoDB Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
-3. [GraphQL Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
-4. [Complete NodeJS Developer GraphQL, MongoDB UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+1. [Complete NodeJS Developer GraphQL, MongoDB UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+2. [Complete Intro to Databases FEM](https://frontendmasters.com/courses/databases/)
+3. [Complete MongoDB Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+4. [GraphQL Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
    1. [GraphQL GH](https://github.com/pankajspace/27-07-complete-nodejs-dev-ztm-graphql)
 5. [GraphQL with React: The Complete Developers Guide UDM](https://www.udemy.com/course/graphql-with-react-course/)
 6. [Complete PostgreSQL, MySQL and Databases Bootcamp UDM](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
@@ -285,6 +285,10 @@
 ## NextJs
 
 1. [Next 13 Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT)
+
+## System Design, DSA, DP & Dynamin programming
+
+1. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
 
 ## System Design
 

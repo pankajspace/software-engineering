@@ -78,6 +78,10 @@
 1. [Learn Performance](https://web.dev/learn/performance)
 2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
 
+## System Design, DSA, DP & Dynamin programming
+
+1. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
+
 ## System Design
 
 1. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)

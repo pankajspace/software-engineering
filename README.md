@@ -132,6 +132,10 @@
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
 2. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
 
+## Database
+
+1. [Complete NodeJS Developer GraphQL, MongoDB UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+
 ## MongoDB
 
 1. [Complete MongoDB Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
@@ -154,6 +158,10 @@
 
 1. [Microservices with Node JS and React UDM](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 2. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
+
+## System Design, DSA, DP & Dynamin programming
+
+1. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
 
 ## System Design
 
