@@ -183,6 +183,7 @@
 3. [React Testing Library and Jest: The Complete Guide UDM](https://www.udemy.com/course/react-testing-library-and-jest/)
    1. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
 4. [NextJS cypress e2e testing YT](https://www.youtube.com/watch?v=u8vMu7viCm8)
+5. [React Testing Tutorial YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
 
 ## Webpack
 
@@ -425,6 +426,7 @@
 5. [The Complete Prompt Engineering for AI Bootcamp UDM](https://www.udemy.com/course/prompt-engineering-for-ai/)
 6. [Machine Learning Basic to Advanced GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
 7. [Prompt Engineering for Beginners Tutorials YT](https://youtube.com/playlist?list=PL6gx4Cwl9DGDv5eyBLEd9l3ZZzVoroxIZ&si=v2V_d-COQJ1HY-mT)
+8. [Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More YT GFG](https://www.youtube.com/watch?v=mEsleV16qdo)
 
 ## Networking
 

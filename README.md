@@ -90,7 +90,8 @@
 ## React Testing
 
 1. [React Testing Library Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
-2. [NextJS cypress e2e testing YT](https://www.youtube.com/watch?v=u8vMu7viCm8)
+2. [React Testing Tutorial YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
+3. [NextJS cypress e2e testing YT](https://www.youtube.com/watch?v=u8vMu7viCm8)
 
 ## React Router
 
