@@ -209,6 +209,7 @@
 12. [Node with React: Fullstack Web Development UDM](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
 13. [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
 14. [8 Essential Node.js Interview Questions](https://www.toptal.com/nodejs/interview-questions)
+15. [Node.js Tutorial YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
 
 ## Automation Testing
 
