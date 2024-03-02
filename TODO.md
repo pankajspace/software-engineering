@@ -1,7 +1,7 @@
 ## System Design, DSA, DP & Dynamin programming
 
-1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
-2. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
+1. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
+2. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
 
 ## Design Patterns
 
