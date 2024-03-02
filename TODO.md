@@ -16,6 +16,24 @@
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
    1. [GH](https://github.com/pankajspace/15-js-oop-solid)
 
+## Python
+
+1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
+
+## AI ML
+
+1. [OpenAI Tutorial (the Basics) YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
+2. [ChatGPT and LangChain: The Complete Developer's Masterclass UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
+3. [Complete A.I. & Machine Learning, Data Science Bootcamp UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
+
+## Docker + Kubernetes
+
+1. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
+
+## AWS
+
+1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+
 ## Database
 
 1. [Complete NodeJS Developer GraphQL, MongoDB UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
@@ -42,23 +60,3 @@
 4.  [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/)
 5.  [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/)
 6.  [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/)
-
-## Python
-
-1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
-
-## AI ML
-
-1. [OpenAI Tutorial (the Basics) YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
-2. [ChatGPT and LangChain: The Complete Developer's Masterclass UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
-3. [Complete A.I. & Machine Learning, Data Science Bootcamp UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
-4. [Deeplearning AI Prompt Engg](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-5. [Machine Learning Basic to Advanced GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
-
-## Docker + Kubernetes
-
-1. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
-
-## AWS
-
-1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
