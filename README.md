@@ -108,6 +108,10 @@
 1. [React: Software Architecture YT](https://www.youtube.com/playlist?list=PLgeETUaEEds75rwfCOKPoND__EaZAwkS8)
 2. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 
+## NextJS
+
+1. [Next.js 14 Tutorial YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
+
 ## Webpack
 
 1. [React Webpack GH](https://github.com/pankajspace/template-webpack-react)
