@@ -244,6 +244,7 @@
 5. [GraphQL with React: The Complete Developers Guide UDM](https://www.udemy.com/course/graphql-with-react-course/)
 6. [Complete PostgreSQL, MySQL and Databases Bootcamp UDM](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 7. [PosgresSQL Course YT](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
+8. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
 
 ## Web Security
 
@@ -290,7 +291,17 @@
 
 ## System Design, DSA, DP & Dynamin programming
 
-1. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
+1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
+   1. [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals)
+   2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+   3. [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
+   4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
+2. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
+   1. [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
+   2. [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
+   3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
+   4. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
+3. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
 
 ## System Design
 

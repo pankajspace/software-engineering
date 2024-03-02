@@ -139,7 +139,8 @@
 
 ## Database
 
-1. [Complete NodeJS Developer GraphQL, MongoDB UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+1. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+2. [Complete NodeJS Developer GraphQL, MongoDB UDM ZTM](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
 
 ## MongoDB
 
@@ -166,7 +167,17 @@
 
 ## System Design, DSA, DP & Dynamin programming
 
-1. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
+1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
+   1. [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals)
+   2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+   3. [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
+   4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
+2. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
+   1. [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
+   2. [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
+   3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
+   4. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
+3. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
 
 ## System Design
 
@@ -232,6 +243,16 @@
 6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
 7. [Core Java Interview Questions 1 YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T) 2.5 HR
 
+## Java Advanced
+
+1. [Spring Boot 3, Spring 6 & Hibernate for Beginners UDM](https://www.udemy.com/course/spring-hibernate-tutorial/) 33.5 HR
+
 ## Python
 
 1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
+
+## AI ML
+
+1. [OpenAI Tutorial (the Basics) YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
+2. [ChatGPT and LangChain: The Complete Developer's Masterclass UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
+3. [Complete A.I. & Machine Learning, Data Science Bootcamp UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)

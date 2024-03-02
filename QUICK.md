@@ -42,7 +42,21 @@
 2. [React + Router + Context + Reduxt toolkit + React testing library GH](https://github.com/pankajspace/react-all)
 3. [React App Security YT](https://youtu.be/1VIZFA3QqFQ?si=mqfndffIf-W2lJeF)
 
-## Node / Express
+## React Testing
+
+1. [React Testing Library Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
+
+## React Router
+
+1. [React Router GH](https://github.com/pankajspace/23-react-router-6)
+
+## Redux
+
+1. [Basic Redux GH](https://github.com/pankajspace/13-basic-redux)
+2. [Basic Redux Toolkit GH](https://github.com/pankajspace/14-basic-redux-toolkit)
+3. [React Redux Toolkit GH](https://github.com/pankajspace/14-react-redux-toolkit)
+
+## Node / Express / MERN
 
 1. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 2. [NodeJs Guides](https://nodejs.org/en/guides)
@@ -59,13 +73,9 @@
 
 1. [React Webpack GH](https://github.com/pankajspace/template-webpack-react)
 
-## Docker + Kubernetes
+## Devops
 
 1. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
-
-## PWA / Service Worker
-
-1. [Learn PWA](https://web.dev/learn/pwa)
 
 ## Web Security
 
@@ -78,21 +88,39 @@
 1. [Learn Performance](https://web.dev/learn/performance)
 2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
 
+## Database
+
+1. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+
+## PWA / Service Worker
+
+1. [Learn PWA](https://web.dev/learn/pwa)
+
+## TypeScript
+
+1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
+   1. [GH forked](https://github.com/pankajspace/15-typescript-tutorial-tnn)
+   2. [GH forked](https://github.com/pankajspace/typescript-masterclass)
+2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
+3. [Typescript Masterclass GH](https://github.com/pankajspace/typescript-masterclass-tnn)
+
+## AWS
+
+1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+
 ## System Design, DSA, DP & Dynamin programming
 
-1. [Design Gurus | Grokking System Design and Coding Interview](https://www.designgurus.io/home)
-
-## System Design
-
-1. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
-
-## Data Structures, Algorithms & Dynamic Programming
-
-1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
-2. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
-3. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-4. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
-5. [Top Interview Questions Leetcode](https://leetcode.com/problem-list/top-interview-questions/)
+1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
+   1. [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals)
+   2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+   3. [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
+   4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
+2. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
+   1. [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
+   2. [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
+   3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
+   4. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
+3. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
 
 ## Design Patterns
 
@@ -107,11 +135,3 @@
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
    1. [GH](https://github.com/pankajspace/15-js-oop-solid)
 3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
-
-## TypeScript
-
-1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
-   1. [GH forked](https://github.com/pankajspace/15-typescript-tutorial-tnn)
-   2. [GH forked](https://github.com/pankajspace/typescript-masterclass)
-2. [TypeScript Generics YT WDS](https://www.youtube.com/watch?v=EcCTIExsqmI)
-3. [Typescript Masterclass GH](https://github.com/pankajspace/typescript-masterclass-tnn)
