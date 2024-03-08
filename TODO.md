@@ -25,6 +25,18 @@
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
    1. [GH](https://github.com/pankajspace/15-js-oop-solid)
 
+## Devops
+
+1. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
+
+## Database
+
+1. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+
+## AWS
+
+1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+
 ## Python
 
 1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB)
@@ -34,18 +46,6 @@
 1. [OpenAI Tutorial (the Basics) YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
 2. [ChatGPT and LangChain: The Complete Developer's Masterclass UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
 3. [Complete A.I. & Machine Learning, Data Science Bootcamp UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
-
-## Devops
-
-1. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
-
-## AWS
-
-1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-
-## Database
-
-1. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
 
 ## Java Core
 
