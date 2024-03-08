@@ -37,12 +37,12 @@
 
 ## JavaScript Basic & Functional
 
-1.  [Deep JavaScript Foundations v3 FEM](https://frontendmasters.com/courses/deep-javascript-v3/)
-2.  [The Hard Parts of Asynchronous JavaScript FEM](https://frontendmasters.com/courses/javascript-new-hard-parts/)
-3.  [JavaScript: The Recent Parts FEM](https://frontendmasters.com/courses/js-recent-parts/)
-4.  [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/)
-5.  [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/)
-6.  [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/)
+1.  [Deep JavaScript Foundations v3 FEM](https://frontendmasters.com/courses/deep-javascript-v3/) 11Hrs
+2.  [The Hard Parts of Asynchronous JavaScript FEM](https://frontendmasters.com/courses/javascript-new-hard-parts/) 5Hrs
+3.  [JavaScript: The Recent Parts FEM](https://frontendmasters.com/courses/js-recent-parts/) 4Hrs
+4.  [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/) 10Hrs
+5.  [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/) 4Hrs
+6.  [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/) 4Hrs
 
 ## JavaScript Event Loop
 
