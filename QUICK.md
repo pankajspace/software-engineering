@@ -91,6 +91,7 @@
 ## Database
 
 1. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+2. [Learn SQL In 60 Minutes YT WDS](https://www.youtube.com/watch?v=p3qvj9hO_Bo)
 
 ## PWA / Service Worker
 

@@ -245,6 +245,7 @@
 6. [Complete PostgreSQL, MySQL and Databases Bootcamp UDM](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 7. [PosgresSQL Course YT](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
 8. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+9. [Learn SQL In 60 Minutes YT WDS](https://www.youtube.com/watch?v=p3qvj9hO_Bo)
 
 ## Web Security
 
