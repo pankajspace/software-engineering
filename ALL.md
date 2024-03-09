@@ -441,6 +441,7 @@
 6. [Machine Learning Basic to Advanced GFG](https://www.geeksforgeeks.org/batch/ml-basic-to-advance?tab=Chapters)
 7. [Prompt Engineering for Beginners Tutorials YT](https://youtube.com/playlist?list=PL6gx4Cwl9DGDv5eyBLEd9l3ZZzVoroxIZ&si=v2V_d-COQJ1HY-mT)
 8. [Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More YT GFG](https://www.youtube.com/watch?v=mEsleV16qdo)
+9. [AI Engineer Roadmap | How I'd Learn AI in 2024 YT](https://www.youtube.com/watch?v=MhCHrvfAXlc)
 
 ## Networking
 
