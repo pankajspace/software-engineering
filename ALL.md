@@ -318,6 +318,7 @@
 10. [System Design Roadmap](https://roadmap.sh/system-design)
 11. [System Design Primer Course YT](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 12. [System Design Playlist in Hindi YT](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM)
+13. [System Design Fundamentals YT BBG](https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf)
 
 ## Data Structures, Algorithms & Dynamic Programming
 
