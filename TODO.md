@@ -44,10 +44,6 @@
 
 1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) 15Hrs
 
-## Database
-
-1. [Learn SQL In 60 Minutes YT WDS](https://www.youtube.com/watch?v=p3qvj9hO_Bo) 1Hr
-
 ## Python
 
 1. [Python Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB) 3Hrs
