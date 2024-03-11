@@ -109,19 +109,23 @@
 
 1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
-## System Design, DSA, DP & Dynamin programming
+# System Design & Dynamin programming
 
 1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
    1. [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals)
    2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
    3. [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
    4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
-2. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
+2. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
+3. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
+
+## DSA & Interview
+
+1. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
    1. [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
    2. [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
    3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
    4. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
-3. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
 
 ## Design Patterns
 

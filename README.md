@@ -154,6 +154,7 @@
 ## Redis
 
 1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
+2. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
 
 ## Microfrontends
 
@@ -166,24 +167,23 @@
 1. [Microservices with Node JS and React UDM](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 2. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
 
-## System Design, DSA, DP & Dynamin programming
+## System Design & Dynamin programming
 
 1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
    1. [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals)
    2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
    3. [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
    4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
-2. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
+2. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
+3. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
+
+## DSA & Interview
+
+1. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
    1. [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
    2. [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
    3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
    4. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
-3. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
-
-## System Design
-
-1. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
-2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
 
 ## Data Structures, Algorithms & Dynamic Programming
 
@@ -192,6 +192,8 @@
 3. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 4. [Master the Coding Interview: Big Tech (FAANG) Interviews UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
 5. [Top Interview Questions Leetcode](https://leetcode.com/problem-list/top-interview-questions/)
+6. [Master Linear Data Structures](https://codedamn.com/learn/linear-data-structures?coupon=PIYUSHG#buy)
+7. [Master Non-Linear Data Structures](https://codedamn.com/learn/non-linear-data-structures?coupon=PIYUSHG#buy)
 
 ## Design Patterns
 
@@ -199,6 +201,7 @@
 2. [Design Patterns in JavaScript UDM](https://www.udemy.com/course/design-patterns-javascript/)
 3. [Design Patterns in TypeScript UDM](https://www.udemy.com/course/design-patterns-in-typescript/)
 4. [Improve how you architect webapps](https://www.patterns.dev/)
+5. [Ultimate React.js Design Patterns](https://codedamn.com/learn/react-design-patterns?coupon=PIYUSHG#buy)
 
 ## Good Coding
 
@@ -254,6 +257,6 @@
 
 ## AI ML
 
-1. [OpenAI Tutorial (the Basics) YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
-2. [ChatGPT and LangChain: The Complete Developer's Masterclass UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
-3. [Complete A.I. & Machine Learning, Data Science Bootcamp UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery)
+1. [OpenAI Tutorial (the Basics) YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu) 1Hr
+2. [ChatGPT and LangChain: The Complete Developer's Masterclass UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/) 12Hrs
+3. [Complete A.I. & Machine Learning, Data Science Bootcamp UDM ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery) 44Hrs
