@@ -288,6 +288,10 @@
 3. [Redis: The Complete Developer's Guide UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
 4. [Redis Caching in NodeJs YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
 
+## Kafka
+
+1. [Apache Kafka Crash Course | What is Kafka?](https://www.youtube.com/watch?v=ZJJHm_bd9Zo) 1.5Hrs
+
 ## NextJs
 
 1. [Next 13 Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT)

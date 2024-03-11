@@ -132,11 +132,6 @@
 1. [NodeJS Authentication with Passport(2021) YT](https://www.youtube.com/playlist?list=PL62km_yqC3ZHlvkKVmR2f3W6SEzh8pRIf)
    1. [GH](https://github.com/pankajspace/nodejs-auth-basic-jwt-passport)
 
-## Devops
-
-1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
-2. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
-
 ## Database
 
 1. [CS50's Introduction to Databases with SQL YT](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
@@ -151,11 +146,6 @@
 
 1. [GraphQL Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)
 
-## Redis
-
-1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
-2. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
-
 ## Microfrontends
 
 1. [Microfrontends with React: A Complete Developer's Guide UDM](https://www.udemy.com/course/microfrontend-course/)
@@ -167,6 +157,27 @@
 1. [Microservices with Node JS and React UDM](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 2. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
 
+## Devops
+
+1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
+2. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
+
+## Kafka
+
+1. [Apache Kafka Crash Course | What is Kafka?](https://www.youtube.com/watch?v=ZJJHm_bd9Zo) 1.5Hrs
+
+## Redis
+
+1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
+2. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
+
+## Good Coding
+
+1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
+2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
+   1. [GH](https://github.com/pankajspace/15-js-oop-solid)
+3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
+
 ## System Design & Dynamin programming
 
 1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
@@ -174,8 +185,8 @@
    2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
    3. [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
    4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
-2. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
-3. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
+2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
+3. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
 
 ## DSA & Interview
 
@@ -202,13 +213,6 @@
 3. [Design Patterns in TypeScript UDM](https://www.udemy.com/course/design-patterns-in-typescript/)
 4. [Improve how you architect webapps](https://www.patterns.dev/)
 5. [Ultimate React.js Design Patterns](https://codedamn.com/learn/react-design-patterns?coupon=PIYUSHG#buy)
-
-## Good Coding
-
-1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
-2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
-   1. [GH](https://github.com/pankajspace/15-js-oop-solid)
-3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
 
 ## TypeScript
 
