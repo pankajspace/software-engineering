@@ -37,13 +37,13 @@
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9) 1Hr
    1. [GH](https://github.com/pankajspace/15-js-oop-solid)
 
-## Database
-
-1. [Learn SQL In 60 Minutes YT WDS](https://www.youtube.com/watch?v=p3qvj9hO_Bo) 1Hr
-
 ## AWS
 
 1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) 15Hrs
+
+## Database
+
+1. [Learn SQL In 60 Minutes YT WDS](https://www.youtube.com/watch?v=p3qvj9hO_Bo) 1Hr
 
 ## Python
 
