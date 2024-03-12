@@ -8,19 +8,19 @@
 6. [Reactive programming with Java YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) 4.5 HR
 7. [Core Java Interview Questions 1 YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZRvrqmB_hq4XfkVyOX-39T) 2.5 HR
 
-## Java Advanced
-
-1. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
-2. [Java Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
-3. [REST API to Microservices Course | Building a Job Application YT](https://www.youtube.com/playlist?list=PLxhSr_SLdXGPCS0F-4v5zEXATHnHLT7Qf)
-
 ## Java Spring
 
 1. [Spring Boot 3, Spring 6 & Hibernate for Beginners UDM](https://www.udemy.com/course/spring-hibernate-tutorial/) 33.5 HR
 2. [Spring Boot Complete Tutorial - Master Class YT](https://www.youtube.com/watch?v=zvR-Oif_nxg) 9.5 HR
 3. [Spring Academy](https://spring.academy/home)
 
-## Java Database
+## Java Advanced
+
+1. [Java Concurrency - Full Course YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX) 5.5HR
+2. [Java Design Patterns YT](https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K)
+3. [REST API to Microservices Course | Building a Job Application YT](https://www.youtube.com/playlist?list=PLxhSr_SLdXGPCS0F-4v5zEXATHnHLT7Qf)
+
+## Java + Database
 
 1. [Relational Databases and SQL - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYmtSGIEAoQ_HU2Hi75gDzU)
 2. [Databases for Backend Engineers - Java Backend Bootcamp YT JB](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ8Yy-v2FC7LhLxaJltvGIG)
