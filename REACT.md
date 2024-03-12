@@ -1,8 +1,8 @@
 ## React
 
-1. [React Reference](https://react.dev/reference/react)
-2. [React Learn](https://react.dev/learn)
-3. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
+1. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
+2. [React Reference](https://react.dev/reference/react)
+3. [React Learn](https://react.dev/learn)
 4. [React + Router + Context + Reduxt toolkit + React testing library GH](https://github.com/pankajspace/react-all)
 5. [React App Security YT](https://youtu.be/1VIZFA3QqFQ?si=mqfndffIf-W2lJeF)
 
