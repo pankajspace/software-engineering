@@ -18,14 +18,6 @@
 3. [WDS Blog](https://blog.webdevsimplified.com/)
 4. [How to do a Million Things All At Once](https://academy.dhruvrathee.com/web/courses/642e6ed737984fa898b0e122?chapter=642e6ed737984fa898b0e126)
 
-## Coding Maths
-
-1. [Coding Math YT](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)
-2. [Master the Fundamentals of Math](https://www.udemy.com/course/fundamentals-of-math/)
-3. [Become a Probability & Statistics Master](https://www.udemy.com/course/statistics-probability/)
-4. [Quntitative Aptitude](https://www.youtube.com/playlist?list=PLN7-HyA4mGr8r6Uoy_C5sW6ZIYqe5-gCg)
-5. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)
-
 ## Tools and Testing
 
 1. [Understanding client-side web development tools MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools)
@@ -45,3 +37,11 @@
 9. [CodeSignal](https://codesignal.com/)
 10. [Codility](https://www.codility.com/)
 11. [Codewars](https://www.codewars.com/)
+
+## Coding Maths
+
+1. [Coding Math YT](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)
+2. [Master the Fundamentals of Math](https://www.udemy.com/course/fundamentals-of-math/)
+3. [Become a Probability & Statistics Master](https://www.udemy.com/course/statistics-probability/)
+4. [Quntitative Aptitude](https://www.youtube.com/playlist?list=PLN7-HyA4mGr8r6Uoy_C5sW6ZIYqe5-gCg)
+5. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)

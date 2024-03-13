@@ -3,7 +3,7 @@
 1. [React Hooks GH](https://github.com/pankajspace/09-react-hooks-wds)
 2. [React Reference](https://react.dev/reference/react)
 3. [React Learn](https://react.dev/learn)
-4. !!! [React + Router + Context + Reduxt toolkit + React testing library GH](https://github.com/pankajspace/react-all)
+4. !!! [React + Router + Context + Redux toolkit + React testing library GH](https://github.com/pankajspace/react-all)
 5. [React Fibre Architecture](https://github.com/acdlite/react-fiber-architecture)
 6. [React App Security YT](https://youtu.be/1VIZFA3QqFQ?si=mqfndffIf-W2lJeF)
 
@@ -23,6 +23,10 @@
 6. [React Testing Library and Jest: The Complete Guide UDM](https://www.udemy.com/course/react-testing-library-and-jest/)
    1. [React Testing Library GH](https://github.com/pankajspace/react-testing-library)
 
+## Automation Testing
+
+1. [Cypress - Modern Automation Testing from Scratch + Frameworks UDM](https://www.udemy.com/course/cypress-tutorial/)
+
 ## React Router
 
 1. [React Router GH](https://github.com/pankajspace/23-react-router-6)
@@ -40,6 +44,14 @@
 2. [React SSR GH](https://github.com/pankajspace/23-react-ssr)
 3. [Server Side Rendering with React and Redux UDM SG](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
    1. [GH](https://github.com/pankajspace/ssr-react-redux)
+
+## Webpack
+
+1. [React Webpack GH](https://github.com/pankajspace/template-webpack-react)
+2. [Webpack 5 in 2023: The Complete Guide For Beginners UDM](https://www.udemy.com/course/webpack-from-beginner-to-advanced/)
+3. [Webpack 5 Crash Course | Frontend Development Setup YT](https://www.youtube.com/watch?v=IZGNcSuwBZs)
+   1. [Webpack 5 Crash Course | Frontend Development Setup GH](https://github.com/bradtraversy/webpack-starter)
+4. [Webpack 5 GH](https://github.com/pankajspace/template-webpack-postcss)
 
 ## NextJS
 
