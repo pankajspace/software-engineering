@@ -15,8 +15,9 @@
 
 1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
 2. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
-3. [Redis: The Complete Developer's Guide UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
-4. [Redis Caching in NodeJs YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
+3. ==========
+4. [Redis: The Complete Developer's Guide UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
+5. [Redis Caching in NodeJs YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
 
 ## Good Coding
 
@@ -103,9 +104,10 @@
 ## Microservices
 
 1. [Microservices with Node JS and React UDM](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-2. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
-3. [NodeJS Microservice Master Class YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr)
-4. [Building Microservices with Node JS YT](https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O)
+2. ==========
+3. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
+4. [NodeJS Microservice Master Class YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr)
+5. [Building Microservices with Node JS YT](https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O)
 
 ## Architecture
 
@@ -123,7 +125,8 @@
 
 ## Linux
 
-1. [Introduction to Linux & Terminal Commands - Full Course for Beginners YT](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+1. [Introduction to Linux – Full Course for Beginners YT GFG](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
+2. [Introduction to Linux & Terminal Commands - Full Course for Beginners YT](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ## System Design Extra
 
