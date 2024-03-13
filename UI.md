@@ -26,6 +26,25 @@
 9. [Practical CSS Layouts FEM](https://frontendmasters.com/courses/css-layouts/)
 10. [Parallax Landing Page Build YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iAkdBGipl-sd_x9JQKXwK9)
 
+## Performance
+
+1. [Learn Performance](https://web.dev/learn/performance)
+2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
+3. [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
+4. ==========
+5. [Top Tips to Improve Web Performance YT](https://www.youtube.com/playlist?list=PLNYkxOF6rcICVl6Vb-AFlw81bQLuv6a_P)
+6. [Web performance MDN](https://developer.mozilla.org/en-US/docs/Learn/Performance)
+7. [Web Performance MDN](https://developer.mozilla.org/en-US/docs/Web/Performance)
+8. [Web Performance Fundamentals FEM](https://frontendmasters.com/courses/web-perf/)
+
+## Web Security
+
+1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
+2. [NodeJS Best Practices](https://nodejs.org/en/guides/security/)
+3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
+4. [Web Security FEM](https://frontendmasters.com/courses/web-security/)
+5. [Web Security & Bug Bounty: Learn Penetration Testing UDM](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
+
 ## JavaScript
 
 1. [Data types](https://javascript.info/types)
@@ -119,25 +138,6 @@
 6. [ExpressJS Typescript YT](https://github.com/pankajspace/node-typescript)
 7. [Typescript: The Complete Developer's Guide UDM SG](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
    1. https://github.com/pankajspace/15-typescript-node-sg
-
-## Performance
-
-1. [Learn Performance](https://web.dev/learn/performance)
-2. [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
-3. [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
-4. ==========
-5. [Top Tips to Improve Web Performance YT](https://www.youtube.com/playlist?list=PLNYkxOF6rcICVl6Vb-AFlw81bQLuv6a_P)
-6. [Web performance MDN](https://developer.mozilla.org/en-US/docs/Learn/Performance)
-7. [Web Performance MDN](https://developer.mozilla.org/en-US/docs/Web/Performance)
-8. [Web Performance Fundamentals FEM](https://frontendmasters.com/courses/web-perf/)
-
-## Web Security
-
-1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-2. [NodeJS Best Practices](https://nodejs.org/en/guides/security/)
-3. [ExpressJS Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
-4. [Web Security FEM](https://frontendmasters.com/courses/web-security/)
-5. [Web Security & Bug Bounty: Learn Penetration Testing UDM](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
 
 ## PWA / Service Worker
 
