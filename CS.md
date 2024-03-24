@@ -1,11 +1,12 @@
 ## Devops
 
-1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
-2. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD)
-3. [Docker and Kubernetes: The Complete Guide UDM SG](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
-4. ==========
-5. [Docker Mastery: with Kubernetes +Swarm from a Docker Captain UDM](https://www.udemy.com/course/docker-mastery/)
-6. [Docker & Kubernetes: The Practical Guide UDM](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) 2Hrs
+2. [Docker: Containerization for Modern Development](https://learn.piyushgarg.dev/learn/docker) 2.5Hrs
+3. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD) 6Hrs
+4. [Docker and Kubernetes: The Complete Guide UDM SG](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+5. ==========
+6. [Docker Mastery: with Kubernetes +Swarm from a Docker Captain UDM](https://www.udemy.com/course/docker-mastery/)
+7. [Docker & Kubernetes: The Practical Guide UDM](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
 ## Kafka
 
