@@ -52,3 +52,4 @@
 
 1. [OpenAI Tutorial (the Basics) YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu) 1Hr
 2. [ChatGPT and LangChain: The Complete Developer's Masterclass UDM SG](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/) 12Hrs
+
