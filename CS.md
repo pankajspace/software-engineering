@@ -1,3 +1,6 @@
+## CS Basics
+1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+
 ## Devops
 
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) 2Hrs
