@@ -38,6 +38,8 @@
    4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
 2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
 3. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
+4. ==========
+5. [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
 
 ## DSA & Interview
 
