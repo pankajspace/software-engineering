@@ -125,7 +125,7 @@
 
 ## Networking
 
-1. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+1. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) 4Hrs
 
 ## Linux
 
