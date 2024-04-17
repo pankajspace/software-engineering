@@ -62,18 +62,21 @@
 6. [Master Linear Data Structures](https://codedamn.com/learn/linear-data-structures?coupon=PIYUSHG#buy)
 7. [Master Non-Linear Data Structures](https://codedamn.com/learn/non-linear-data-structures?coupon=PIYUSHG#buy)
 8. ==========
-9. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
-10. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
-11. [Algorithms, Part I Coursera](https://www.coursera.org/learn/algorithms-part1)
-12. [Algorithms, Part II Coursera](https://www.coursera.org/learn/algorithms-part2)
-13. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-14. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
-15. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
-16. [Greedy Algorithms Tutorials | YT GFG](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
-17. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-18. [The Coding Interview Bootcamp: Algorithms + Data Structures UDM SG](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
-19. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
-20. [Senior](https://asksenior.in/)
+9. [Java + DSA + Interview Preparation Course YT](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+10. [Complete Tree Data Structure Course for Interviews YT](https://www.youtube.com/playlist?list=PL9gnSGHSqcnqfctdbCQKaw5oZ9Up2cmsq)
+11. [Recursion + Backtracking Course YT](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
+12. [Complete Intro to Computer Science FEM](https://frontendmasters.com/courses/computer-science-v2/)
+13. [JavaScript Algorithms and Data Structures GH](https://github.com/trekhleb/javascript-algorithms)
+14. [Algorithms, Part I Coursera](https://www.coursera.org/learn/algorithms-part1)
+15. [Algorithms, Part II Coursera](https://www.coursera.org/learn/algorithms-part2)
+16. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+17. [Data Structures & Algorithms in JavaScript GFG](https://www.geeksforgeeks.org/batch/dsa-using-javascript?tab=Chapters)
+18. [Master Competitive Programming - Complete Beginner to Advanced GFG](https://www.geeksforgeeks.org/batch/competitive-programming?tab=Chapters)
+19. [Greedy Algorithms Tutorials | YT GFG](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+20. [Algo Explained YT](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+21. [The Coding Interview Bootcamp: Algorithms + Data Structures UDM SG](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
+22. [Dynamic Programming Algorithms Master Course (2022) UDM](https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/)
+23. [Senior](https://asksenior.in/)
 
 ## Design Patterns
 
@@ -127,7 +130,8 @@
 
 ## Networking
 
-1. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+1. [Networking Fundamentals YT](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+2. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ## Linux
 
