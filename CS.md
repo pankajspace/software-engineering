@@ -39,6 +39,7 @@
    2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
    3. [Grokking the Advanced System Design Interview](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
    4. [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
+   5. [Grokking Design Patterns for Engineers and Managers](https://www.designgurus.io/course/grokking-design-patterns-for-engineers-and-managers)
 2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
 3. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
 4. ==========
