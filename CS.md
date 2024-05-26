@@ -1,39 +1,7 @@
 ## CS Basics
 1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
-## Devops
-
-1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) 2Hrs
-2. [Docker: Containerization for Modern Development](https://learn.piyushgarg.dev/learn/docker) 2.5Hrs
-3. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD) 6Hrs
-4. [Docker and Kubernetes: The Complete Guide UDM SG](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
-5. ==========
-6. [Docker Mastery: with Kubernetes +Swarm from a Docker Captain UDM](https://www.udemy.com/course/docker-mastery/)
-7. [Docker & Kubernetes: The Practical Guide UDM](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
-
-## Kafka
-
-1. [Apache Kafka Crash Course | What is Kafka?](https://www.youtube.com/watch?v=ZJJHm_bd9Zo) 1.5Hrs
-
-## Redis
-
-1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
-2. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
-3. ==========
-4. [Redis: The Complete Developer's Guide UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
-5. [Redis Caching in NodeJs YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
-
-## Good Coding
-
-1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
-2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
-   1. [GH](https://github.com/pankajspace/15-js-oop-solid)
-3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
-4. ==========
-5. [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
-
 ## System Design & Dynamin programming
-
 1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
    1. [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals)
    2. [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
@@ -46,15 +14,48 @@
 5. [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
 
 ## DSA & Interview
-
 1. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
    1. [Grokking Data Structures & Algorithms for Coding Interviews](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
    2. [Grokking the Art of Recursion for Coding Interviews](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
    3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
    4. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
 
-## Data Structures, Algorithms & Dynamic Programming
+## AWS
+1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+2. [Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+3. [AWS Certified DevOps Engineer Professional 2024 - DOP-C02](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
+4. [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+5. [Ultimate AWS Certified Solutions Architect Professional 2024](https://www.udemy.com/course/aws-solutions-architect-professional/)
+6. [Ultimate AWS Certified Security Specialty SCS-C02](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
 
+## Devops
+1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) 2Hrs
+2. [Docker: Containerization for Modern Development](https://learn.piyushgarg.dev/learn/docker) 2.5Hrs
+3. [Docker and Kubernetes Fundamentals YT](https://youtu.be/kTp5xUtcalw?si=3nbs3lElJr1JgmLD) 6Hrs
+4. [Docker and Kubernetes: The Complete Guide UDM SG](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+5. ==========
+6. [Docker Mastery: with Kubernetes +Swarm from a Docker Captain UDM](https://www.udemy.com/course/docker-mastery/)
+7. [Docker & Kubernetes: The Practical Guide UDM](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+
+## Kafka
+1. [Apache Kafka Crash Course | What is Kafka?](https://www.youtube.com/watch?v=ZJJHm_bd9Zo) 1.5Hrs
+
+## Redis
+1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
+2. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
+3. ==========
+4. [Redis: The Complete Developer's Guide UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
+5. [Redis Caching in NodeJs YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
+
+## Good Coding
+1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
+2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
+   1. [GH](https://github.com/pankajspace/15-js-oop-solid)
+3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
+4. ==========
+5. [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+
+## Data Structures, Algorithms & Dynamic Programming
 1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
 2. [Data Structures & Algorithms, Tamed. Interviewpen](https://interviewpen.com/courses/data-structures-and-algorithms)
 3. [Master the Coding Interview: Data Structures + Algorithms UDM ZTM](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
@@ -80,7 +81,6 @@
 23. [Senior](https://asksenior.in/)
 
 ## Design Patterns
-
 1. [Design Patterns YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f)
 2. [Design Patterns in JavaScript UDM](https://www.udemy.com/course/design-patterns-javascript/)
 3. [Design Patterns in TypeScript UDM](https://www.udemy.com/course/design-patterns-in-typescript/)
@@ -96,23 +96,12 @@
 10. [JS DP GH](https://github.com/pankajspace/07-js-design-patterns)
 11. [7 Node.js Design Patterns Every Developer Should Know](https://blog.bitsrc.io/nodejs-design-patterns-must-know-8ef0a73b3339)
 
-## AWS
-
-1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-2. [Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
-3. [AWS Certified DevOps Engineer Professional 2024 - DOP-C02](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
-4. [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-5. [Ultimate AWS Certified Solutions Architect Professional 2024](https://www.udemy.com/course/aws-solutions-architect-professional/)
-6. [Ultimate AWS Certified Security Specialty SCS-C02](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
-
 ## Microfrontends
-
 1. [Microfrontends with React: A Complete Developer's Guide UDM](https://www.udemy.com/course/microfrontend-course/)
    1. [MF Simple GH](https://github.com/pankajspace/17-micro-frontends-sg-simple)
    2. [MF Complex GH](https://github.com/pankajspace/17-micro-frontends-sg-complex)
 
 ## Microservices
-
 1. [Microservices with Node JS and React UDM](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 2. ==========
 3. [NodeJS Microservice COMPLETE Production Level Course YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs)
@@ -120,7 +109,6 @@
 5. [Building Microservices with Node JS YT](https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O)
 
 ## Architecture
-
 1. [Clean Architecture YT](https://www.youtube.com/playlist?list=PLby1BKAzwnsFAaLCt--kofuHOfRIOGtPi)
 2. [Clean Architecture & DDD Series YT](https://www.youtube.com/playlist?list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa)
 3. [Software Architecture & Technology of Large-Scale Systems UDM](https://www.udemy.com/course/developer-to-architect/)
@@ -130,17 +118,14 @@
 7. [Domain driven design](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
 
 ## Networking
-
 1. [Networking Fundamentals YT](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 2. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ## Linux
-
 1. [Introduction to Linux – Full Course for Beginners YT GFG](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
 2. [Introduction to Linux & Terminal Commands - Full Course for Beginners YT](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ## System Design Extra
-
 1. [Mastering System Design: From Low-Level to High-Level Solutions GFG](https://www.geeksforgeeks.org/batch/sd-self-paced?tab=Chapters)
 2. [System Design Roadmap](https://whimsical.com/system-design-roadmap-by-tanya-rajhans-HBWU4L6HGs1x9HkAfHBj2U)
 3. [Pragmatic System Design UDM](https://www.udemy.com/course/pragmatic-system-design/)
