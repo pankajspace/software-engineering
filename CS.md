@@ -1,5 +1,5 @@
-## CS Basics
-1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+## Networking
+1. [Networking Fundamentals YT](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 
 ## System Design & Dynamin programming
 1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
@@ -27,6 +27,9 @@
 4. [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
 5. [Ultimate AWS Certified Solutions Architect Professional 2024](https://www.udemy.com/course/aws-solutions-architect-professional/)
 6. [Ultimate AWS Certified Security Specialty SCS-C02](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
+
+## CS Basics
+1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
 ## Devops
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) 2Hrs
@@ -116,10 +119,6 @@
 5. [Software Architecture & Design of Modern Large Scale Systems UDM](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/)
 6. [Software Architecture & System Design Practical Case Studies UDM](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/)
 7. [Domain driven design](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
-
-## Networking
-1. [Networking Fundamentals YT](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
-2. [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples YT](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ## Linux
 1. [Introduction to Linux – Full Course for Beginners YT GFG](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
