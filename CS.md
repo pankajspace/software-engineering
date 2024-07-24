@@ -1,3 +1,6 @@
+## Project Management
+1. https://github.com/pankajspace/scrum-safe-yt
+
 ## Networking
 1. [Networking Fundamentals YT](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 
@@ -12,6 +15,7 @@
 3. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
 4. ==========
 5. [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
+6. [Namaste Frontend System Design](https://namastedev.com/learn/namaste-frontend-system-design)
 
 ## DSA & Interview
 1. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
