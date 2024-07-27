@@ -148,3 +148,6 @@
 
 1. [Learn Accessibility](https://web.dev/learn/accessibility)
 2. [Accessibility MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+
+## Advanced JavaScript
+1. [Learn JavaScript Reactivity: How to Build Signals from Scratch](https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/)

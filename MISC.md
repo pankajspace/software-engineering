@@ -1,5 +1,4 @@
 ## Cheat Sheets
-
 1. [Advanced JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/)
 2. [React Cheat Sheet](https://zerotomastery.io/cheatsheets/react-cheat-sheet/)
 3. [Node JS Cheat Sheet](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/)
@@ -10,43 +9,72 @@
 8. [Data Structures and Algorithms Cheat Sheet](https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/)
 9. [Cyber Security Cheat Sheet](https://zerotomastery.io/cheatsheets/cyber-security-cheat-sheet/)
 10. [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/)
+11. [System Design Components Cheatsheet](https://interviewready.io/blog/system-design-component-examples)
 
 ## General
-
 1. [Learning How to Learn Coursera](https://www.coursera.org/learn/learning-how-to-learn)
 2. [ZTM Blog](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 3. [WDS Blog](https://blog.webdevsimplified.com/)
 4. [How to do a Million Things All At Once](https://academy.dhruvrathee.com/web/courses/642e6ed737984fa898b0e122?chapter=642e6ed737984fa898b0e126)
 
 ## Tools and Testing
-
 1. [Understanding client-side web development tools MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools)
 2. [Git and GitHub MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub)
 3. [Cross browser testing MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing)
 
 ## Coding Practice
-
 1. [LeetCode](https://leetcode.com/problemset/)
 2. [LeetCode Solutions YT](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
 3. [LeetCode Solutions: Mastering Algorithms YT](https://www.youtube.com/playlist?list=PLA3GkZPtsafYf3I3ROaCOQCQjr4EnzNsS)
 4. [HackerRank](https://www.hackerrank.com/)
 5. [Hackerearth](https://www.hackerearth.com/)
 6. [Codechef](https://www.codechef.com/)
-7. [InterviewBit](https://www.interviewbit.com/)
-8. [work@tech](https://workat.tech/)
-9. [Codeforces](https://codeforces.com/)
-10. [CodeSignal](https://codesignal.com/)
-11. [Codility](https://www.codility.com/)
-12. [Codewars](https://www.codewars.com/)
-13. [Coddy](https://coddy.tech/)
+7. [Codility](https://www.codility.com/)
+8. [CoderPad](https://coderpad.io/)
+9. [InterviewBit](https://www.interviewbit.com/)
+10. [work@tech](https://workat.tech/)
+11. [Codeforces](https://codeforces.com/)
+12. [CodeSignal](https://codesignal.com/)
+13. [Codewars](https://www.codewars.com/)
+14. [Coddy](https://coddy.tech/)
 
-## Coding Maths
-
-1. [Coding Math YT](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)
-2. [Master the Fundamentals of Math](https://www.udemy.com/course/fundamentals-of-math/)
-3. [Become a Probability & Statistics Master](https://www.udemy.com/course/statistics-probability/)
-4. [Quntitative Aptitude](https://www.youtube.com/playlist?list=PLN7-HyA4mGr8r6Uoy_C5sW6ZIYqe5-gCg)
-5. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)
+## Online Learning
+1. [Online Courses - Anytime, Anywhere | Udemy](https://www.udemy.com/)
+2. [System Design Simplified | Gaurav Sen](https://interviewready.io/?hs_bot2=true)
+3. [Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!](https://frontendmasters.com/)
+4. [Web Dev Simplified](https://courses.webdevsimplified.com/)
+5. [codedamn: Become the best full stack web developer today](https://codedamn.com/)
+6. [Udacity - Free Online Courses and Nanodegree Programs](https://in.udacity.com/)
+7. [Refactor yourself. Train your programming skills - Codility](https://codility.com/programmers/)
+8. [Learnable ](https://learnable.com/)
+9. [Home | Codevolution](https://learn.codevolution.dev/)
+10. [egghead.io - Learn professional JavaScript tools with Tutorial Videos & Training @eggheadio](https://egghead.io/)
+11. [Learn by Doing - Code School](https://www.codeschool.com/)
+12. [Learn Web Design, Web Development, and More | Treehouse](https://teamtreehouse.com/)
+13. [Tuts ](http://tutsplus.com/)
+14. [Learn to code | Codecademy](https://www.codecademy.com/)
+15. [Pluralsight – Developer, IT & Creative Training by Pros](http://www.pluralsight.com/)
+16. [Challenges | HackerRank](https://www.hackerrank.com/categories/algorithms/warmup)
+17. [Code Avengers: learn to code games, apps and websites](http://www.codeavengers.com/)
+18. [CodeCombat - Learn how to code by playing a game](http://codecombat.com/#)
+19. [NodeSchool ](http://nodeschool.io/)
+20. [edX | Free online courses from the world&#39;s best universities](https://www.edx.org/)
+21. [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
+22. [e Learning for Online Courses like UPSC, CAT, GMAT, K10, K12 & JEE](https://byjus.com/)
+23. [Learn R, Python & Data Science Online | DataCamp](https://www.datacamp.com/home)
+24. [SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design](https://www.sitepoint.com/)
+25. [CSS-Tricks ](http://css-tricks.com/)
+26. [Educative: Interactive Courses for Software Developers](https://www.educative.io/learn/home)
+27. [Class Central • Find the best courses, wherever they exist.](https://www.classcentral.com/)
+28. [Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/)
+29. [System Design for Beginners | Arpit Bhayani](https://arpitbhayani.me/system-design-for-beginners/)
+30. [arpitbbhayani/system-design-questions: Problem statements on System Design and Software Architecture as part of Arpits System Design Masterclass](https://github.com/arpitbbhayani/system-design-questions)
+31. [Arpits System Design Masterclass - Pre-requisites - YouTube](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT36NJXTutvKcreetuHCr9a-)
+32. [community.scaledagile.com/CustomStudioLogin ](https://community.scaledagile.com/CustomStudioLogin)
+33. [Coding Minutes | Indias best Coding Courses](https://codingminutes.com/#)
+34. [Educative: Interactive Courses for Software Developers](https://www.educative.io/)
+35. [draw. ](https://www.drawio.com/)
+36. [GreatFrontEnd](https://www.greatfrontend.com/?fpr=leanne83)
 
 ## Remote Work
 1. [Flexjobs](https://www.flexjobs.com/)
@@ -61,3 +89,4 @@
 10. [Upwork](https://www.upwork.com/)
 11. [Wellfound](https://wellfound.com/)
 12. [Remote.co](https://remote.co/)
+13. [23 Websites To Find Remote Tech Jobs](https://thecodedose.com/blog/websites-to-find-remote-tech-jobs/)

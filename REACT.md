@@ -45,6 +45,9 @@
 3. [Server Side Rendering with React and Redux UDM SG](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/)
    1. [GH](https://github.com/pankajspace/ssr-react-redux)
 
+# React Debugging
+1. [How To Debug React Apps Like A Senior Developer](https://www.youtube.com/watch?v=l8knG0BPr-o)
+
 ## Webpack
 
 1. [React Webpack GH](https://github.com/pankajspace/template-webpack-react)

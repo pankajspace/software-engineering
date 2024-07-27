@@ -1,8 +1,18 @@
 ## Project Management
 1. https://github.com/pankajspace/scrum-safe-yt
 
+## CS Basics
+1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+
+## Operating System
+1. [Fundamentals of Operating Systems](https://www.udemy.com/course/fundamentals-of-operating-systems/)
+
 ## Networking
 1. [Networking Fundamentals YT](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+2. [Fundamentals of Network Engineering](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/)
+
+## Git
+1. [GitHub Advanced Security Certification](https://www.youtube.com/watch?v=i740xlsqxEM)
 
 ## System Design & Dynamin programming
 1. [System Design Interview Roadmap | Design Gurus](https://www.designgurus.io/path/system-design-interview-playbook)
@@ -13,9 +23,14 @@
    5. [Grokking Design Patterns for Engineers and Managers](https://www.designgurus.io/course/grokking-design-patterns-for-engineers-and-managers)
 2. [System Design Interviewpen](https://interviewpen.com/courses/system-design/introduction-to-system-design)
 3. [System Design Simplified IR](https://interviewready.io/learn/system-design-course)
-4. ==========
-5. [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
-6. [Namaste Frontend System Design](https://namastedev.com/learn/namaste-frontend-system-design)
+4. [System Design Components Cheatsheet](https://interviewready.io/blog/system-design-component-examples)
+5. [Mastering the 12 Factor App](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY43nsu74NmIZjZiHo0fzVN)
+6. [19 Microservices Patterns for System Design Interviews](https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39)
+7. ==========
+8. [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
+9.  [Namaste Frontend System Design](https://namastedev.com/learn/namaste-frontend-system-design)
+10. [Arpit's System Design Masterclass - Pre-requisites](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT36NJXTutvKcreetuHCr9a-)
+11. [System Design for Beginners](https://arpitbhayani.me/system-design-for-beginners/)
 
 ## DSA & Interview
 1. [Coding Interview Roadmap | Design Gurus](https://www.designgurus.io/path/coding-interview-playbook)
@@ -24,16 +39,9 @@
    3. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
    4. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
 
-## AWS
-1. [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-2. [Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
-3. [AWS Certified DevOps Engineer Professional 2024 - DOP-C02](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
-4. [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-5. [Ultimate AWS Certified Solutions Architect Professional 2024](https://www.udemy.com/course/aws-solutions-architect-professional/)
-6. [Ultimate AWS Certified Security Specialty SCS-C02](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/)
-
-## CS Basics
-1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+## Backend
+1. [Troubleshooting Backend Performance](https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/)
+2. [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/)
 
 ## Devops
 1. [Docker Crash Course Tutorial YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) 2Hrs
@@ -46,6 +54,10 @@
 
 ## Kafka
 1. [Apache Kafka Crash Course | What is Kafka?](https://www.youtube.com/watch?v=ZJJHm_bd9Zo) 1.5Hrs
+2. [Apache Kafka Series - Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka/)
+
+## NGINX
+1. [Introduction to NGINX](https://www.udemy.com/course/nginx-crash-course/)
 
 ## Redis
 1. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
@@ -59,8 +71,9 @@
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
    1. [GH](https://github.com/pankajspace/15-js-oop-solid)
 3. [7 Principles Every Developer Should Know - Medium](https://levelup.gitconnected.com/7-principles-every-developer-should-know-a7da7ed5700e)
-4. ==========
-5. [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+4. [The 20 Essential Principles of Software Development: LoD, SoC, SOLID, and Beyond](https://levelup.gitconnected.com/the-20-essential-principles-of-software-development-lod-soc-solid-and-beyond-7a39a98b685d)
+5. ==========
+6. [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
 
 ## Data Structures, Algorithms & Dynamic Programming
 1. [JavaScript Algorithms and Data Structures YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) 7Hrs
@@ -125,8 +138,15 @@
 7. [Domain driven design](https://www.geeksforgeeks.org/domain-driven-design-ddd/)
 
 ## Linux
-1. [Introduction to Linux – Full Course for Beginners YT GFG](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
-2. [Introduction to Linux & Terminal Commands - Full Course for Beginners YT](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+1. [Complete Linux Training Course to Get Your Dream IT Job 2024](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)
+2. [Learn Linux in 5 Days and Level Up Your Career](https://www.udemy.com/course/learn-linux-in-5-days/)
+
+## Coding Maths
+1. [Coding Math YT](https://www.youtube.com/playlist?list=PL7wAPgl1JVvUEb0dIygHzO4698tmcwLk9)
+2. [Master the Fundamentals of Math](https://www.udemy.com/course/fundamentals-of-math/)
+3. [Become a Probability & Statistics Master](https://www.udemy.com/course/statistics-probability/)
+4. [Quntitative Aptitude](https://www.youtube.com/playlist?list=PLN7-HyA4mGr8r6Uoy_C5sW6ZIYqe5-gCg)
+5. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)
 
 ## System Design Extra
 1. [Mastering System Design: From Low-Level to High-Level Solutions GFG](https://www.geeksforgeeks.org/batch/sd-self-paced?tab=Chapters)
