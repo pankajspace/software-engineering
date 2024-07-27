@@ -66,7 +66,7 @@
 4. [Redis: The Complete Developer's Guide UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
 5. [Redis Caching in NodeJs YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
 
-## Good Coding
+## Good Coding / Clean code
 1. [Clean Code YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-xGQ-nQ87rXI7QkM6W3E79)
 2. [SOLID Design Principles YT WDS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
    1. [GH](https://github.com/pankajspace/15-js-oop-solid)
@@ -128,7 +128,7 @@
 4. [NodeJS Microservice Master Class YT](https://www.youtube.com/playlist?list=PLaLqLOj2bk9Y0GmLjiXnX402SKYAGQiRr)
 5. [Building Microservices with Node JS YT](https://www.youtube.com/playlist?list=PLIGDNOJWiL182j1bD_nQm-SxARR5s977O)
 
-## Architecture
+## Architecture / Clean Architecture
 1. [Clean Architecture YT](https://www.youtube.com/playlist?list=PLby1BKAzwnsFAaLCt--kofuHOfRIOGtPi)
 2. [Clean Architecture & DDD Series YT](https://www.youtube.com/playlist?list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa)
 3. [Software Architecture & Technology of Large-Scale Systems UDM](https://www.udemy.com/course/developer-to-architect/)
