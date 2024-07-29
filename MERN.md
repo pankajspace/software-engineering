@@ -35,7 +35,8 @@
 1. [Introduction to NGINX](https://www.udemy.com/course/nginx-crash-course/)
 
 ## Redis
-1. [Redis Crash Course YT WDS](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
+1. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
+2. [Redis Crash Course YT WDS](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
 
 ## MERN
 1. [MERN + Auth GH](https://github.com/pankajspace/mern-tnn-yt)
