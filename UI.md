@@ -114,6 +114,7 @@
 11. [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 12. [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 13. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+14. [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ## TypeScript
 1. [TypeScript Crash Course YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN)
