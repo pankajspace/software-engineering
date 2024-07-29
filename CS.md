@@ -60,9 +60,9 @@
 1. [Introduction to NGINX](https://www.udemy.com/course/nginx-crash-course/)
 
 ## Redis
-1. [Redis Crash Course YT WDS](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
-2. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
-3. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
+1. [Redis Crash Course YT](https://www.youtube.com/watch?v=Vx2zPMPvmug) 1.5Hrs
+2. [Redis Crash Course YT WDS](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
+3. [Redis for Beginners YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P)
 4. ==========
 5. [Redis: The Complete Developer's Guide UDM](https://www.udemy.com/course/redis-the-complete-developers-guide-p/)
 6. [Redis Caching in NodeJs YT](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
