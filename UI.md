@@ -23,10 +23,11 @@
 4. [How CSS works MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 5. [CSS building blocks MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
 6. [CSS layout MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
-7. ==========
-8. [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-9. [Practical CSS Layouts FEM](https://frontendmasters.com/courses/css-layouts/)
-10. [Parallax Landing Page Build YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iAkdBGipl-sd_x9JQKXwK9)
+7. [CSS Cascade Layers YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_)
+8. ==========
+9. [CSS reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+10. [Practical CSS Layouts FEM](https://frontendmasters.com/courses/css-layouts/)
+11. [Parallax Landing Page Build YT TNN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iAkdBGipl-sd_x9JQKXwK9)
 
 ## Performance
 1. [Learn Performance](https://web.dev/learn/performance)
