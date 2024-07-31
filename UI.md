@@ -7,6 +7,8 @@
 3. [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 4. [JS Game](https://alexnisnevich.github.io/untrusted/)
 5. [JS Game Solution](https://gist.github.com/DaFrElUf/49ccfe86476aa6ac8267)
+6. [Advanced Javascript Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
+7.  [Javascript Interview Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
 
 ## Web Basics
 1. [How the web works MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
@@ -78,21 +80,19 @@
 36. [Manipulating documents MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 37. [Client-side storage MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 38. [JavaScript reference MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-39. [Advanced Javascript Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
-40. [Javascript Interview Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
-41. [JavaScript: The Advanced Concepts UDM ZTM](https://www.udemy.com/course/advanced-javascript-concepts/)
-42. [JavaScript: The Hard Parts v2 FEM](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
-43. [Rethinking Asynchronous JavaScript FEM](https://frontendmasters.com/courses/rethinking-async-js/)
-44. [The Hard Parts of Object Oriented JavaScript FEM](https://frontendmasters.com/courses/object-oriented-js/)
-45. [Advanced Web Development Quiz FEM](https://frontendmasters.com/courses/web-dev-quiz/)
 
-## JavaScript Basic & Functional
+## JavaScript Tutorials
 1.  [Deep JavaScript Foundations v3 FEM](https://frontendmasters.com/courses/deep-javascript-v3/) 11Hrs
 2.  [The Hard Parts of Asynchronous JavaScript FEM](https://frontendmasters.com/courses/javascript-new-hard-parts/) 5Hrs
 3.  [JavaScript: The Recent Parts FEM](https://frontendmasters.com/courses/js-recent-parts/) 4Hrs
 4.  [Functional-Light JavaScript v3 FEM](https://frontendmasters.com/courses/functional-javascript-v3/) 10Hrs
 5.  [Hardcore Functional Programming in JavaScript v2 FEM](https://frontendmasters.com/courses/hardcore-js-v2/) 4Hrs
 6.  [Hardcore Functional Architecture Patterns in JavaScript FEM](https://frontendmasters.com/courses/hardcore-js-patterns/) 4Hrs
+7.  [JavaScript: The Advanced Concepts UDM ZTM](https://www.udemy.com/course/advanced-javascript-concepts/)
+8.  [JavaScript: The Hard Parts v2 FEM](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+9.  [Rethinking Asynchronous JavaScript FEM](https://frontendmasters.com/courses/rethinking-async-js/)
+10. [The Hard Parts of Object Oriented JavaScript FEM](https://frontendmasters.com/courses/object-oriented-js/)
+11. [Advanced Web Development Quiz FEM](https://frontendmasters.com/courses/web-dev-quiz/)
 
 ## JavaScript Event Loop
 1. [Node.js Event Loop YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN)
@@ -138,5 +138,5 @@
 1. [Learn Accessibility](https://web.dev/learn/accessibility)
 2. [Accessibility MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
-## Advanced JavaScript
+## JavaScript Articles
 1. [Learn JavaScript Reactivity: How to Build Signals from Scratch](https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/)

@@ -43,14 +43,13 @@
 2. [Redis Crash Course YT WDS](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
 
 ## MERN
-1. 
-2. [Node with React: Fullstack Web Development UDM SG](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+1. [Node with React: Fullstack Web Development UDM SG](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
 
 ## Web Security
 1. [Website security MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-4. [Web Security FEM](https://frontendmasters.com/courses/web-security/)
-5. [Application Security - The Complete Guide](https://www.udemy.com/course/application-security-the-complete-guide/)
-6. [Web Security & Bug Bounty: Learn Penetration Testing UDM](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
+2. [Web Security FEM](https://frontendmasters.com/courses/web-security/)
+3. [Application Security - The Complete Guide UDM](https://www.udemy.com/course/application-security-the-complete-guide/)
+4. [Web Security & Bug Bounty: Learn Penetration Testing UDM](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/)
 
 ## Authentication
 1. *[What Is JWT and Why Should You Use JWT YT WDS](https://www.youtube.com/watch?v=7Q17ubqLfaM&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&index=1)
