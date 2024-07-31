@@ -30,7 +30,7 @@
 11. bcrypt, session, socket, nodemailer
 
 ## Nodejs Tutorials
-1. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/)
+1. [Node JS: Advanced Concepts UDM](https://www.udemy.com/course/advanced-node-for-developers/) 16Hrs
 2. [Mixu's Node book](https://book.mixu.net/node/)
 3. [Master NodeJS](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo)
 4. [Node.js Tutorial YT CE](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
