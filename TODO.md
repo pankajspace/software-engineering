@@ -1,6 +1,3 @@
-## Tutorials
-1. [Tutorials | MDN](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
-
 ## Interview questions
 1. [Interview Questions GH](https://github.com/sudheerj/javascript-interview-questions)
 2. [Preparing for a Frontend Interview CE](https://learn.codevolution.dev/courses/enrolled)

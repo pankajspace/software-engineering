@@ -1,6 +1,3 @@
-## Tutorials
-1. [Tutorials | MDN](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
-
 ## Interview questions
 1. [Interview Questions GH](https://github.com/sudheerj/javascript-interview-questions)
 2. [Preparing for a Frontend Interview CE](https://learn.codevolution.dev/courses/enrolled)
@@ -9,6 +6,9 @@
 5. [JS Game Solution](https://gist.github.com/DaFrElUf/49ccfe86476aa6ac8267)
 6. [Advanced Javascript Concepts YT](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
 7.  [Javascript Interview Questions YT](https://www.youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
+
+## Tutorials
+1. [Tutorials | MDN](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 ## Web Basics
 1. [How the web works MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
