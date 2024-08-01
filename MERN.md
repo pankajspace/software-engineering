@@ -1,48 +1,42 @@
-## Interview Questions
-1. [Nodejs](https://www.youtube.com/playlist?list=PL3aZbxdSiCbOBbNqpsFmn9aUQUcYmg7Kz)
-2. [Top 35](https://www.interviewbit.com/node-js-interview-questions/)
-3. [Top 50 NodeJS Interview Questions and Answers for 2024](https://javascriptcentric.medium.com/top-50-nodejs-interview-questions-and-answers-for-2024-5e460dac7852)
-4. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
-5. [Nodejs Security](https://nodejs.org/en/learn/getting-started/security-best-practices/)
-6. [Nodejs Optimisation](https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/)
-7. [Node js Features/Advantages](https://medium.com/@asiandigitalhub/exploring-the-features-of-node-js-6de056deae74)
-8. [Node js Advantages/Disadvantages](https://medium.com/@infuyIT/when-to-use-node-js-development-advantages-disadvantages-and-best-projects-c984d5b20e39)
-9.  [Node vs Java](https://yesitlabs-marketing.medium.com/node-js-vs-java-which-one-is-better-for-backend-development-2f3e3a998125)
-10. [REST vs Micro services](https://blog.dreamfactory.com/restful-api-and-microservices-the-differences-and-how-they-work-together#:~:text=REST%20APIs%20are%20a%20communication,and%20context%20of%20your%20application.)
-11. bcrypt
-12. session
-13. socket
-14. nodemailer
-15. Callback vs promises vs async..await
-16. Promise API
-17. Package.json
-18. Package-lock.json
-19. Semantic Versioning
-20. Why node js not so much compatible with RDBMS?
-21. Memory management
-22. Event driven means?
-23. Streams
-24. REPL
-25. Fork vs Spawn
-26. Callback hell? How can you overcome?
-27. V8 Engine
-28. Middleware’s, it’s types
-29. NODE_ENV
-30. Timer functions
-31. Error first callback
-32. LibUV
-33. Global Object
-34. Express vs Restify
-35. Frontend vs backend development?
-36. Authentication using jwt/passport modules
-37. Authorisation
-38. Debugging node js code
+## MERN Interview Questions
+1.  [The V8 JavaScript Engine](https://nodejs.org/en/learn/getting-started/the-v8-javascript-engine)
+33. [libUV](https://docs.libuv.org/en/v1.x/)
+3.  [Promises, async/await](https://javascript.info/async)
+4.  [The Nodejs Event Loop](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick)
+5.  [Timers](https://nodejs.org/api/timers.html)
+6.  [REPL](https://nodejs.org/api/repl.html)
+7.  [Global Objects](https://nodejs.org/api/globals.html)
+8.  [NODE_ENV](https://nodejs.org/en/learn/getting-started/nodejs-the-difference-between-development-and-production)
+9.  [Error first callback](https://nodejs.org/api/errors.html)
+10. [Child process, Fork vs Spawn](https://nodejs.org/api/child_process.html)
+11. [Child process](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
+12. [Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
+13. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
+14. [Nodejs Security](https://nodejs.org/en/learn/getting-started/security-best-practices/)
+15. [Stream](https://nodejs.org/api/stream.html)
+16. [Nodejs Optimisation](https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/)
+17. [Nodejs Features/Advantages](https://medium.com/@asiandigitalhub/exploring-the-features-of-node-js-6de056deae74)
+18. [Nodejs Advantages/Disadvantages](https://medium.com/@infuyIT/when-to-use-node-js-development-advantages-disadvantages-and-best-projects-c984d5b20e39)
+19. [Debugging Nodejs](https://nodejs.org/en/learn/getting-started/debugging)
+20. [Express middleware](https://expressjs.com/en/guide/using-middleware.html)
+21. [Express middleware](https://expressjs.com/en/resources/middleware.html)
+22. [Semantic Versioning](https://docs.npmjs.com/about-semantic-versioning)
+23. [package.json](https://docs.npmjs.com/cli/v10/configuring-npm/package-json)
+24. [package-lock.json](https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json)
+25. [Top 35 Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
+26. [Top 50 NodeJS Interview Questions and Answers for 2024](https://javascriptcentric.medium.com/top-50-nodejs-interview-questions-and-answers-for-2024-5e460dac7852)
+27. [Nodejs Interview Questions](https://www.youtube.com/playlist?list=PL3aZbxdSiCbOBbNqpsFmn9aUQUcYmg7Kz) 4Hrs
+28. [Node vs Java](https://yesitlabs-marketing.medium.com/node-js-vs-java-which-one-is-better-for-backend-development-2f3e3a998125)
+29. [REST vs Micro services](https://blog.dreamfactory.com/restful-api-and-microservices-the-differences-and-how-they-work-together#:~:text=REST%20APIs%20are%20a%20communication,and%20context%20of%20your%20application.)
+30. [bcrypt](https://www.npmjs.com/package/bcrypt)
+31. [Socket.IO](https://socket.io/)
+32. [Nodemailer](https://nodemailer.com/)
 
 ## Nodejs Quick
 1. [Learn NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 2. [NodeJs Guides](https://nodejs.org/en/guides)
 3. [Nodejs API](https://nodejs.org/api/)
-4. [NodeJS Security Best Practices](https://nodejs.org/en/guides/security/)
+4. [NodejS Security Best Practices](https://nodejs.org/en/guides/security/)
 5. [Nodejs Performance](https://www.youtube.com/watch?v=ol56smloW2Q&list=PLISqeoHsXJYAIfu4-mgNY0tloWz2uut1t)
 6. [Nodejs Performance](https://www.youtube.com/results?search_query=node+js+performance)
 7. [Socket.IO](https://socket.io/)
