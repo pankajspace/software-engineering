@@ -1,0 +1,196 @@
+[<- Cloud](cloud-quick.md)
+
+# AWS IAM
+
+## AWS IAM (Identity and Access Management) Overview
+
+AWS IAM (Identity and Access Management) is a web service that helps you securely control access to AWS resources. With IAM, you can create and manage AWS users and groups and use permissions to allow or deny their access to AWS resources. It helps in securely managing who can access what in AWS.
+
+## Key Features of AWS IAM
+
+1. Granular Permissions: Control access at a granular level (e.g., specific actions on specific resources).
+2. User Management: Create and manage users, groups, and roles.
+3. Roles and Temporary Credentials: Assign roles to services or users to grant temporary access.
+4. MFA (Multi-Factor Authentication): Add another layer of security by requiring MFA.
+5. IAM Policies: JSON-based policy documents that define permissions.
+6. Centralized Control: Manage permissions and security credentials across all AWS services.
+
+---
+
+## Core Components of AWS IAM
+
+1. IAM Users: An IAM user is an entity that represents a person or service interacting with AWS.
+2. IAM Groups: A group is a collection of IAM users that share the same permissions.
+3. IAM Roles: A role is an entity that grants permissions to users or services to perform certain actions temporarily.
+4. IAM Policies: Policies are JSON documents that specify permissions (allow or deny) for users, groups, or roles.
+
+---
+
+## Example 1: Creating an IAM User with S3 Read-Only Access
+
+Let’s create an IAM user who can only access S3 in read-only mode.
+
+### Step 1: Create a User
+
+1. Go to the IAM Console.
+2. Click Users and then click Add User.
+3. Name the user (e.g., `S3ReadOnlyUser`).
+4. Select Programmatic access to allow this user to access AWS through the CLI, SDK, or API.
+
+### Step 2: Attach a Policy to the User
+
+1. In the Permissions section, select Attach policies directly.
+2. Search for and select the AmazonS3ReadOnlyAccess policy.
+3. Complete the user creation.
+
+This creates a new IAM user with access credentials (Access Key ID and Secret Access Key) that can be used for programmatic access (e.g., via the AWS CLI) to read objects in S3.
+
+### Step 3: Access S3 Using the AWS CLI
+
+You can now configure AWS CLI with the user's credentials:
+
+```bash
+aws configure
+```
+
+When prompted, enter the Access Key ID, Secret Access Key, and Region.
+
+Then, use the AWS CLI to list the contents of an S3 bucket:
+
+```bash
+aws s3 ls s3://my-bucket-name
+```
+
+Because the user has AmazonS3ReadOnlyAccess, the user will be able to list the objects but won't be able to upload or delete files.
+
+---
+
+## Example 2: Creating an IAM Group with EC2 and RDS Permissions
+
+Let’s create an IAM group for developers, giving them permissions to launch EC2 instances and access RDS databases.
+
+### Step 1: Create a Group
+
+1. Go to the IAM Console.
+2. Click Groups and then click Create New Group.
+3. Name the group (e.g., `Developers`).
+4. Click Next Step to attach policies.
+
+### Step 2: Attach Policies to the Group
+
+1. Search for and select the AmazonEC2FullAccess and AmazonRDSFullAccess policies.
+2. Click Create Group.
+
+### Step 3: Add Users to the Group
+
+1. Go to the Users section and select users you want to add to this group.
+2. Click Add User to Group and select the Developers group.
+
+Now, any user in the Developers group will have full access to manage EC2 instances and RDS databases.
+
+---
+
+## Example 3: Creating an IAM Role for EC2 to Access S3
+
+IAM roles are used to grant permissions to AWS services like EC2, Lambda, or others. In this example, we’ll create a role that allows EC2 instances to access an S3 bucket.
+
+### Step 1: Create an IAM Role
+
+1. Go to the IAM Console.
+2. Click Roles and then Create Role.
+3. Choose AWS Service as the trusted entity type, and select EC2 as the use case.
+4. Click Next.
+
+### Step 2: Attach a Policy
+
+1. In the permissions section, search for and select the AmazonS3FullAccess policy.
+2. Name the role (e.g., `EC2S3AccessRole`) and complete the role creation.
+
+### Step 3: Attach the Role to an EC2 Instance
+
+1. When launching an EC2 instance, select IAM role in the configuration section.
+2. Choose the EC2S3AccessRole role you just created.
+
+Once the EC2 instance is running, it will automatically assume the role and have access to the S3 bucket without the need for access keys.
+
+---
+
+## Example 4: Setting Up Multi-Factor Authentication (MFA) for a User
+
+Adding MFA to a user enhances security by requiring a second form of authentication.
+
+### Step 1: Enable MFA for a User
+
+1. Go to the IAM Console and select the user.
+2. Click Security Credentials.
+3. Under Multi-factor Authentication (MFA), click Manage MFA Device.
+4. Choose Virtual MFA device and click Continue.
+
+### Step 2: Configure a Virtual MFA Device
+
+1. Use a mobile app like Google Authenticator or Authy to scan the QR code.
+2. Enter two consecutive MFA codes generated by the app.
+3. Click Assign MFA.
+
+Now, every time the user logs into the AWS Console, they will need to provide the MFA code from the mobile app along with their password.
+
+---
+
+## Example 5: Creating a Custom IAM Policy
+
+Let’s create a custom IAM policy that grants read and write access to a specific S3 bucket.
+
+### Step 1: Write the Policy
+
+IAM policies are written in JSON. Below is an example policy that allows full access to objects in the S3 bucket `my-secure-bucket`:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:PutObject",
+        "s3:GetObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": "arn:aws:s3:::my-secure-bucket/*"
+    }
+  ]
+}
+```
+
+### Step 2: Create the Policy in IAM
+
+1. Go to the IAM Console and click Policies.
+2. Click Create Policy.
+3. Select JSON and paste the policy from above.
+4. Click Next and complete the creation process.
+
+### Step 3: Attach the Policy to a User
+
+1. Go to Users, select the user you want to apply the policy to, and click Add permissions.
+2. Choose Attach policies directly and select the policy you just created.
+
+The user now has permission to read, write, and delete objects in the specific S3 bucket.
+
+---
+
+## Best Practices for Using AWS IAM
+
+1. Follow the Principle of Least Privilege: Always grant the minimum permissions necessary for a user, group, or role to perform their job.
+2. Use Groups for Permissions Management: Assign permissions to groups rather than individual users. This simplifies the management of permissions as your number of users grows.
+3. Use IAM Roles for Applications: Use roles instead of hardcoding credentials for applications running on EC2, Lambda, or other AWS services.
+4. Enable MFA for Sensitive Accounts: Protect sensitive accounts, especially the root account, with Multi-Factor Authentication.
+5. Rotate Access Keys: Regularly rotate IAM user access keys to minimize security risks.
+
+---
+
+## Conclusion
+
+AWS IAM provides powerful tools to control access to AWS resources in a secure, granular way. With users, groups, roles, and policies, IAM allows you to manage who has access to what resources, define detailed permissions, and enforce security best practices like MFA. By following the principle of least privilege and leveraging IAM roles for applications, you can ensure secure access control for your AWS environment.
+
+---
+
+[<- Cloud](cloud-quick.md)

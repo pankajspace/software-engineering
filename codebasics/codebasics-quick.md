@@ -1,0 +1,17 @@
+[<- README](../README.md)
+
+## Index
+1. [Python Setup](01-python/01-python-setup/python-setup.md)
+2. [Variables and Data Types](01-python/02-variables-data-types/variables-and-data-types.md)
+3. [Strings](01-python/03-strings/strings.md)
+4. [Lists](01-python/06-lists/lists.md)
+5. [If Else](01-python/07-if-else/if-else.md)
+6. [For While](01-python/08-for-while/for-while.md)
+7. [Functions](01-python/11-functions/functions.md)
+8. [Tuples and Dictionary](01-python/12-tuple-dictionary/tuple-dictionary.md)
+9. [Modules and Pip](01-python/13-modules-pip/modules-pip.md)
+10. [File Handling](01-python/14-file-handling/file-handling.md)
+11. [Classes](01-python/17-classes/classes.md)
+12. [Inheritance](01-python/18-inheritance/inheritance.md)
+13. [Exception Handling](01-python/19-exception-handling/exception-handling.md)
+14. [Main Function](01-python/20-main-function/main-function.md)

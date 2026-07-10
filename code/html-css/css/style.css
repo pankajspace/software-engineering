@@ -1,0 +1,29 @@
+:root {
+  --background-color: #333;
+  --text-color: #f3f3f3;
+}
+
+@font-face {
+  font-family: 'Lumanosimo';
+  src: url('../fonts/Lumanosimo-Regular.ttf') format('truetype');
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Lumanosimo', sans-serif;
+  font-size: 1.6rem;
+  box-sizing: border-box;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}

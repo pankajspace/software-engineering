@@ -1,0 +1,21 @@
+[<- JavaScript](js-quick.md)
+
+1. https://javascript.plainenglish.io/ecmascript-2024-es15-unveiling-the-latest-javascript-features-9186d72a10ae
+2. https://medium.com/@asierr/9-powerful-features-of-es2024-that-will-change-how-you-write-javascript-daa9d8a58e36
+3. https://mrohitsingh.medium.com/29-javascript-one-liners-thatll-make-you-look-like-a-pro-81c9322f37b0
+4. https://medium.com/coding-beauty/these-are-the-5-most-transformative-javascript-features-from-es11-aab6951f68af
+5. https://medium.com/@asierr/15-javascript-performance-hacks-every-developer-should-know-2b00e426a5c8
+6. https://maxtsh.medium.com/javascript-engine-jit-compiler-stack-heap-memory-primitives-references-and-garbage-8133bf7ef73c
+7. https://medium.com/@vitaliykorzenkoua/output-based-javascript-interview-questions-5b33c2d2d81d
+8. https://medium.com/@vitaliykorzenkoua/javascript-error-handling-interview-questions-42cd485f43fa
+9. https://medium.com/@vitaliykorzenkoua/greedy-algorithms-with-javascript-examples-and-explanation-fc9657ec1093
+10. https://medium.com/@javaScriptwithvinay/uber-sde-2-frontend-interview-experience-a-detailed-breakdown-with-coding-questions-and-d7d853bcb26f
+11. https://blog.stackademic.com/uber-frontend-interview-questions-with-expert-answers-d11868e9dc9e
+12. https://medium.com/@javaScriptwithvinay/top-10-latest-data-structure-and-algorithm-questions-from-amazon-and-google-interviews-in-2024-99eb02b9f75d
+13. https://medium.com/@javaScriptwithvinay/10-trending-dsa-questions-from-amazon-and-google-interviews-in-2024-8f3c0f161d62
+14. https://medium.com/@javaScriptwithvinay/cracking-the-code-10-more-must-know-dsa-array-questions-for-sde-2-interviews-at-amazon-google-e8fefa92666b 
+15. https://javascript.plainenglish.io/10-simple-javascript-interview-questions-that-blew-my-mind-7cbeaff164bb
+16. https://medium.com/coding-beauty/javascript-features-2024-1401b9a83bde
+17. https://javascript.plainenglish.io/day-11-daily-javascript-algorithm-20f405865f8f
+18. https://levelup.gitconnected.com/amazon-frontend-engineer-interview-experience-2024-berlin-ee61eb79601e
+19. https://blog.stackademic.com/9-must-know-advanced-uses-of-promises-a6d1ab195dfc

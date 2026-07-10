@@ -1,0 +1,12 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playground.js",
+  "scripts": {
+    "start": "node --watch playground.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
