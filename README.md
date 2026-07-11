@@ -1,6 +1,6 @@
 [IQA](IQA.md) | [TODO](TODO.md) | [LINKS](LINKS.md)
 
-# Revision
+# Index
 1.  [MERN](mern/mern-quick.md)
 2.  [React](react/react-quick.md)
 3.  [React Code](react-code)
