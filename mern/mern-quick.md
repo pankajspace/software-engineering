@@ -44,7 +44,7 @@
 
 # Code
 1.  [Node](../code/node)
-2.  [MERN](../code/mern)
+2.  [MERN](../mern-code)
 
 # Resources
 1.  [MERN Resporces](mern-res.md)
@@ -54,4 +54,4 @@
 
 ---
 
-[<- README](../README.md) 
+[<- README](../README.md)

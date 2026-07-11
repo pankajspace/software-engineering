@@ -8,12 +8,12 @@ This is a personal software engineering learning repository. It contains practic
 
 ## Project Structure
 
-Code lives under `/code/`. Each subdirectory is an independent project with its own `package.json`. Documentation and notes live in topic-named directories at the root (e.g., `react/`, `javascript/`, `node/`, `database/`, `dsa/`).
+Most code lives under `/code/`, with larger app demos at the root such as `mern-code/`. Each project directory has its own `package.json`. Documentation and notes live in topic-named directories at the root (e.g., `react/`, `javascript/`, `node/`, `database/`, `dsa/`).
 
 **Independent projects at root and under `/code/`:**
 - `react-code/` — React hooks and patterns demos (Vite/Babel)
 - `react-redux-toolkit-code/` — Redux Toolkit with React (Vite/Babel)
-- `code/mern/` — Full-stack MERN app (client: React/Vite, server: Express/MongoDB)
+- `mern-code/` — Full-stack MERN app (client: React/Vite, server: Express/MongoDB)
 - `code/node/` — Node.js features (event loop, workers, cluster)
 - `code/js-dsa/` — JavaScript DSA implementations
 - `code/js-asynchronous/` — Async/await and promise patterns
@@ -24,7 +24,7 @@ Code lives under `/code/`. Each subdirectory is an independent project with its 
 
 There is no root-level `package.json`. All commands must be run from within the specific project directory.
 
-**React/Vite projects** (`react-code/`, `react-redux-toolkit-code/`, `code/mern/client/`):
+**React/Vite projects** (`react-code/`, `react-redux-toolkit-code/`, `mern-code/client/`):
 ```bash
 npm run dev      # Start Vite dev server
 npm run build    # Production build
@@ -37,7 +37,7 @@ npm run preview  # Preview production build
 npm start        # Runs: node --watch index.js (or playground.js)
 ```
 
-**MERN server** (`code/mern/server`):
+**MERN server** (`mern-code/server`):
 ```bash
 npm start        # Runs: node --watch src/index.js
 ```
@@ -45,7 +45,7 @@ Requires a `.env` file with `PORT`, `dbuser`, `dbpass` for MongoDB Atlas connect
 
 ## Architecture Notes
 
-### MERN Stack (`code/mern`)
+### MERN Stack (`mern-code`)
 - Server is Express with Mongoose. Routes → Controllers → Models pattern. Entry point: `src/index.js`.
 - Client uses Axios for API calls. State is local `useState` — no Redux here.
 - MongoDB connection string is built from `.env` variables.
@@ -59,7 +59,7 @@ Requires a `.env` file with `PORT`, `dbuser`, `dbpass` for MongoDB Atlas connect
 - Uses `@vitejs/plugin-react` (Babel). Demonstrates RTK slice/store patterns.
 
 ### MERN Client vs React
-- `code/mern/client` uses `@vitejs/plugin-react-swc` (SWC compiler, faster).
+- `mern-code/client` uses `@vitejs/plugin-react-swc` (SWC compiler, faster).
 - `react-code/` uses `@vitejs/plugin-react` (Babel).
 
 ## Coding Conventions
