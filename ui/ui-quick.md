@@ -2,7 +2,7 @@
 
 # Revision Level 1
 
-## HTML 
+## HTML
 1. [Learn HTML](https://web.dev/learn/html)
 
 ## CSS
@@ -12,7 +12,7 @@
 4. [Learn Images](https://web.dev/learn/images)
 
 ## Code
-1. [HTML](../code/html-css/)
+1. [HTML](../ui-code/)
 
 ## Accessibility
 1. [Learn Accessibility](https://web.dev/learn/accessibility)

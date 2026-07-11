@@ -5,7 +5,7 @@
 ## React
 1. [React Lifecycle Methods](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 2. [React Reconciliation](react-reconciliation.md)
-3. [React Hooks](../code/react/README.md)
+3. [React Hooks](../react-code/README.md)
 4. [React Security](react-sec.md)
 5. [React Performance](react-perf.md) : Run a React app and use React dev tools to identify performance bottlenecks.
 6. [React Testing](react-testing.md)
@@ -20,7 +20,7 @@
 4. [React SSR](react-ssr.md)
 5. [React Webpack](react-webpack.md)
 6. [React TypeScript](react-ts.md)
-7. [React Redux Toolkit](../code/react-redux-toolkit/README.md)
+7. [React Redux Toolkit](../react-redux-toolkit-code/README.md)
 
 # Resources
 1. [React Resources](react-res.md)

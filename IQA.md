@@ -2,8 +2,8 @@
 
 # React
 1. What is React Reconciliation [React Reconciliation](react/react-reconciliation.md)
-2. Explain useEffect in detail [useEffect](code/react/src/UseEffect.jsx)
-3. useMemo vs useCallback [useMemo](code/react/src/UseMemo.jsx) [useCallback](code/react/src/UseCallback.jsx)
+2. Explain useEffect in detail [useEffect](react-code/src/UseEffect.jsx)
+3. useMemo vs useCallback [useMemo](react-code/src/UseMemo.jsx) [useCallback](react-code/src/UseCallback.jsx)
 4. Redux flow. Middleware and why it is used [React Redux](react/react-redux.md)
 5. React performance optimization techniques [React Performance Optimization](react/react-perf.md)
 
@@ -67,7 +67,7 @@ Employee.find().sort({ Salary: -1 }).skip(2).limit(1).select({ name: 1 });
 Employee.aggregate([
   { $sort: { Salary: -1 } },
   { $skip: 2 },
-  { $limit: 1 },  
+  { $limit: 1 },
   { $project: { _id: 0, name: 1 } } // to exclude _id field and include name field
 ]);
 ```

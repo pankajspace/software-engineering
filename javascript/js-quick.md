@@ -39,10 +39,10 @@
 3. [JS Tricky](js-tricky.md)
 
 # Code
-1. [JS DSA](../code/js-dsa/README.md)
-2. [JS Asynchronous](../code/js-asynchronous)
-3. [JS Bindings](../code/js-bindings)
-4. [JS Snippets](../code/js-snippets)
+1. [JS DSA](../javascript-code/js-dsa/README.md)
+2. [JS Asynchronous](../javascript-code/js-asynchronous)
+3. [JS Bindings](../javascript-code/js-bindings)
+4. [JS Snippets](../javascript-code/js-snippets)
 
 # Links
 1. [JS Links](js-links.md)

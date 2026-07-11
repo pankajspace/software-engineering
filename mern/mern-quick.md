@@ -43,8 +43,8 @@
 14. [NestJS](nestjs.md)
 
 # Code
-1.  [Node](../code/node)
-2.  [MERN](../mern-code)
+1.  [Node](../mern-code-1)
+2.  [MERN](../mern-code-2)
 
 # Resources
 1.  [MERN Resporces](mern-res.md)
