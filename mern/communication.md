@@ -40,7 +40,7 @@
 - Real-time communication between browsers.
 - Example: Video chat.
 
-# API Protocols 
+# API Protocols
 
 ## REST (Representational State Transfer)
 - An architectural style for designing networked applications.
@@ -85,7 +85,7 @@
 - A server-push technology that allows a server to send updates to a client over an HTTP connection in a unidirectional manner.
 
 ## API Protocols Diagram
-![API Protocols](images/api-proto.gif)
+![API Protocols](images/api.png)
 
 ---
 

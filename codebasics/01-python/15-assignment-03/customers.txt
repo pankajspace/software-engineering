@@ -1,7 +1,0 @@
-Srinivas,120
-John,250
-Maria,150
-Smith,510
-Anjali,45
-Navin,100
-Santosh,99

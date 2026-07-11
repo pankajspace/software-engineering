@@ -27,5 +27,4 @@
 24. [Java](java/java-quick.md)
 25. [Java DB](java-db/java-db-quick.md)
 26. [Tech](tech/tech-quick.md)
-27. [Codebasics](codebasics/codebasics-quick.md)
-28. [Code](code)
+27. [Code](code)
