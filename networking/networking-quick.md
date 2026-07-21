@@ -16,6 +16,9 @@
 13. [Ping and Latency](ping-latency.md)
 14. [Ports](ports.md)
 
+## Topics
+1. [Networking for Web Development](webdev-networking.md)
+
 ## Resources
 1. [Networking Resources](networking-res.md)
 
