@@ -45,7 +45,7 @@
     2. sudo apt install npm
     3. sudo apt list | grep ^node
     4. sudo apt remove nodejs
-7. VS Code (App Center) -> Settings Sync: Login using GitHub
+7. VS Code (Download and install .deb file) -> Settings Sync: Login using GitHub
 8. Antigravity IDE (App Center)
 9. gsettings set org.gnome.shell app-picker-layout "[]"
 10. Enable Ubuntu Pro
