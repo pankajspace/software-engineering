@@ -46,9 +46,7 @@
     3. sudo apt list | grep ^node
     4. sudo apt remove nodejs
 7. VS Code (App Center) -> Settings Sync: Login using GitHub
-8. Antigravity IDE (App Center)
-9. gsettings set org.gnome.shell app-picker-layout "[]"
-10. Enable Ubuntu Pro
+8. gsettings set org.gnome.shell app-picker-layout "[]"
 11. Java : sudo apt install default-jdk
 12. IntelliJ (App Center)
 13. MySQL
@@ -74,7 +72,9 @@
     1. Create new connection to MySQL Server on localhost using user `pankaj` and the password set above
     2. If DBeaver shows `Public Key Retrieval is not allowed`, edit connection -> Driver properties -> set `allowPublicKeyRetrieval=true`
     3. For a local-only connection, also set `useSSL=false` if needed
-16. Insomnia (App Center)
+16. Insomnia
+    1. curl -1sLf 'https://packages.konghq.com/public/insomnia/setup.deb.sh' | sudo -E bash
+    2. sudo apt install insomnia
 17. MongoDB Compass (.deb)
 18. Docker Desktop (.deb)
 19. Get all installed apps list starting with code
