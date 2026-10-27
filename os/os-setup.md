@@ -18,8 +18,7 @@
 7. Install VS Code
     1. Settings Sync
     2. Login via GitHub
-8. Install Java
-9. MiniTool Partition Wizard
+8. MiniTool Partition Wizard
 
 ---
 
@@ -72,9 +71,7 @@
     1. Create new connection to MySQL Server on localhost using user `pankaj` and the password set above
     2. If DBeaver shows `Public Key Retrieval is not allowed`, edit connection -> Driver properties -> set `allowPublicKeyRetrieval=true`
     3. For a local-only connection, also set `useSSL=false` if needed
-16. Insomnia
-    1. curl -1sLf 'https://packages.konghq.com/public/insomnia/setup.deb.sh' | sudo -E bash
-    2. sudo apt install insomnia
+16. Postman (App Center)
 17. MongoDB Compass (.deb)
 18. Docker Desktop (.deb)
 19. Get all installed apps list starting with code
